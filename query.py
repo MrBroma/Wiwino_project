@@ -35,10 +35,11 @@ LIMIT 10;
 """
 
 # Query for 2.
-query1 = """SELECT *
+query2 = """SELECT *
 FROM countries
 ORDER BY users_count DESC LIMIT 3
 """
+
 
 # Query for 3.
 query3 = """SELECT 
