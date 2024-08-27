@@ -37,19 +37,4 @@ plt.show()
 
 
 
-# code for graph for question 6
 
-df = pd.DataFrame({'Average wine rating': [4.6, 4.6,4.6,4.5,4.5,4.5,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.3,4.3,4.2,
-]}, index=['Italie', 'Hongrie', 'Chili', 'Moldavie', 'Israël','Afrique du Sud', 'Suisse', 'Roumanie', 'Portugal', 'Grèce', 'France', 'Australie', 'Argentine', 'Allemagne', 'États-Unis', 'Croatie', 'Espagne'])
-df.plot(kind='barh', figsize=(16, 16), color='darkcyan')
-plt.xlabel('Average wine rating', fontsize=18, fontweight="bold") 
-plt.title('Rating average per Country', fontsize=24, fontweight="bold")
-plt.legend().set_visible(False)
-plt.yticks(fontsize=18, fontweight="bold") 
-plt.xticks(fontsize=18, fontweight="bold")
-
-# Annotate value labels to each country
-for index, value in enumerate(df['Average wine rating']):
-    plt.annotate(f'{value}', xy=(value - 0.005, index), color='black', fontsize=15, va='center', fontweight="bold")  # Aumentar el tamaño de fuente
-
-plt.show()
