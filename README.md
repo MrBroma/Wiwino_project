@@ -8,7 +8,15 @@ Table of content
 4. Contributors :detective: :man_technologist: :man_scientist: :superhero_woman:
    
 # Wiwimo
-## 1. This project analyzes the wine market based on data gathered by Wiwimo Wine Company.
-## 2. This analysis is useful for understanding the global wine market and making commercial decisions.
-## 3. Users can take a more informed decision of which wine to buy according to the type of grape, rating, and price
-## 4. A team of data engineers and data analysts constructed this project.
+### 1. This project analyzes the wine market based on data gathered by Wiwimo Wine Company.
+The Wiwino's database was improved and data tables were joined to answer company commercial questions.
+Data analysis was done with SQL.
+
+### 2. This analysis is useful for understanding the global wine market and making commercial decisions.
+Data visualization was prepared with seaborn and plotly
+Marketing decisions according to sales globally
+
+### 3. Users can make a more informed decision about which wine to buy according to the type of grape, rating, and price
+Wine recommendations based on rating average (public rating of wine quality) and price
+
+### 4. A team of data engineers and data analysts constructed this project.
