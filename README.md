@@ -13,7 +13,7 @@ The Wiwino's database was improved and data tables were joined to answer company
 Data analysis was done with SQL.
 
 ### 2. This analysis is useful for understanding the global wine market and making commercial decisions.
-Data visualization was prepared with seaborn and plotly
+Data visualization was prepared with seaborn and Plotly.
 Marketing decisions according to sales globally
 
 ### 3. Users can make a more informed decision about which wine to buy according to the type of grape, rating, and price
