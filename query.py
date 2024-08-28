@@ -3,8 +3,6 @@
 # import of the different library
 import sqlite3
 
-
-
 # Questions:
 # 1. We want to highlight 10 wines to increase our sales. Which ones should we choose and why?
 # 2. We have a limited marketing budget for this year. Which country should we prioritise and why?
@@ -62,7 +60,11 @@ LIMIT 3;
 
 # Query for 4.
 query4 = """
-"""
+SELECT wines.name, keywords_wine.keyword_id, wine_id, group_name, count
+FROM keywords_wine
+JOIN wines ON wines.id = keywords_wine.wine_id
+WHERE wine_id AND keyword_id IN (9, 106,117,123,195,417) AND count >= 10;"""
+
 
 # Query for 5.
 query5 = """WITH top_grapes AS (
@@ -101,8 +103,7 @@ SELECT
     grape_name
 FROM ranked_wines
 WHERE wine_rank <= 5
-ORDER BY grape_name, ratings_average DESC
-LIMIT 15; 
+ORDER BY grape_name, ratings_average DESC; 
 """
 
 # Query for 6-1.
@@ -127,6 +128,10 @@ LIMIT 20;
 """
 
 # Query for 7.
-query7="""
-
+query7="""SELECT wines.name, wines.ratings_average, wines.ratings_count, vintages.price_euros
+FROM wines
+JOIN vintages
+    ON wines.id = vintages.wine_id
+WHERE wines.name = "Cabernet Sauvignon"
 """
+
