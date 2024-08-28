@@ -1,0 +1,1668 @@
+name,keyword_id,wine_id,group_name,count
+Tignanello,9,1652,tree_fruit,14
+Castello della Sala Cervaro della Sala,9,1688,tree_fruit,259
+Castello della Sala Muffato della Sala,9,1690,tree_fruit,21
+Chardonnay,9,1697,tree_fruit,357
+Puligny-Montrachet 1er Cru 'La Garenne',9,2997,tree_fruit,11
+Sassicaia,9,5078,tree_fruit,14
+Toscana Batar,9,6935,tree_fruit,48
+Amarone della Valpolicella Classico,9,7103,tree_fruit,12
+Corton-Charlemagne Grand Cru,9,7273,tree_fruit,116
+Brut Cuvée Champagne Rosé,9,8305,tree_fruit,188
+Castillo Ygay Gran Reserva Especial Tinto,9,11001,tree_fruit,12
+60 Sessantanni Old Vines Primitivo di Manduria,9,11890,tree_fruit,10
+Blanc de Blancs Brut Champagne Grand Cru,9,15617,tree_fruit,150
+Barsac (Premier Grand Cru Classé),9,16786,tree_fruit,33
+Pessac-Léognan (Grand Cru Classé de Graves),9,17656,tree_fruit,12
+La Grande Année Brut Champagne,9,18931,tree_fruit,738
+Costasera Amarone della Valpolicella Classico,9,21929,tree_fruit,14
+Saint-Julien (Grand Cru Classé),9,22685,tree_fruit,10
+Cuvée Annamaria Clementi (Extra Brut),9,23130,tree_fruit,46
+Beaune 1er Cru 'Clos des Mouches' Blanc,9,24063,tree_fruit,21
+Puligny-Montrachet,9,24139,tree_fruit,41
+Corton-Charlemagne Grand Cru,9,41524,tree_fruit,17
+Cabernet Sauvignon,9,66284,tree_fruit,29
+Blanc de Blancs Brut Champagne (Vintage),9,74300,tree_fruit,125
+Cristal Brut Champagne (Millésimé),9,74304,tree_fruit,740
+Cristal Rosé Brut Champagne (Millésimé),9,74306,tree_fruit,63
+Baron de L Pouilly-Fumé,9,74360,tree_fruit,41
+Belondrade y Lurton,9,76476,tree_fruit,97
+Tokaji Aszú 6 Puttonyos,9,77175,tree_fruit,11
+Tokaji Aszú 3 Puttonyos,9,77182,tree_fruit,32
+Quarz Sauvignon,9,77676,tree_fruit,28
+Belle Epoque Brut Champagne,9,79162,tree_fruit,399
+Pauillac (Grand Cru Classé),9,79262,tree_fruit,10
+Saint-Julien (Grand Cru Classé),9,79265,tree_fruit,13
+Vintage,9,79631,tree_fruit,386
+Rosé,9,79632,tree_fruit,27
+Collection,9,79633,tree_fruit,22
+Clos du Mesnil,9,79635,tree_fruit,20
+Cuvée Nicolas François Billecart Brut Champagne,9,79835,tree_fruit,219
+La Grande Dame Brut Champagne,9,79836,tree_fruit,350
+Pessac-Léognan (Grand Cru Classé de Graves),9,82613,tree_fruit,10
+Corton-Charlemagne Grand Cru,9,82779,tree_fruit,109
+Clos des Goisses Champagne,9,83818,tree_fruit,92
+Chevalier-Montrachet Grand Cru,9,84911,tree_fruit,12
+Brut Champagne,9,86684,tree_fruit,2026
+Scharzhofberger Riesling Kabinett,9,86685,tree_fruit,67
+Scharzhofberger Riesling Spätlese,9,86686,tree_fruit,31
+Buisson Renard,9,86698,tree_fruit,18
+Beyond the Clouds,9,92600,tree_fruit,35
+Clos de la Coulée de Serrant,9,100492,tree_fruit,128
+Trebbiano d'Abruzzo,9,1105696,tree_fruit,45
+ARTEMIS Cabernet Sauvignon,9,1107336,tree_fruit,16
+Serral del Vell Brut Nature,9,1109743,tree_fruit,47
+Saint-Julien (Grand Cru Classé),9,1115658,tree_fruit,12
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,9,1127349,tree_fruit,134
+Châteauneuf-du-Pape,9,1134803,tree_fruit,17
+Sauternes (Premier Grand Cru Classé),9,1135215,tree_fruit,136
+Alexander Valley Cabernet Sauvignon,9,1135641,tree_fruit,14
+Comtes de Champagne Blanc de Blancs,9,1136950,tree_fruit,506
+Brut Rosé Champagne,9,1148298,tree_fruit,104
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),9,1148846,tree_fruit,12
+Sauternes,9,1153863,tree_fruit,154
+Corton-Charlemagne Grand Cru Blanc,9,1155694,tree_fruit,22
+Les Noisetiers,9,1155762,tree_fruit,183
+R.D Extra Brut Champagne (Récemment Dégorgé),9,1164702,tree_fruit,201
+MV,9,1167182,tree_fruit,205
+Capellanía Reserva,9,1173806,tree_fruit,94
+Sauternes (Premier Grand Cru Classé),9,1174845,tree_fruit,128
+Ben Ryé Passito di Pantelleria,9,1176121,tree_fruit,39
+Clos Sainte Hune Riesling Alsace,9,1182677,tree_fruit,61
+Dom Ruinart Blanc de Blancs Brut Champagne,9,1192720,tree_fruit,179
+Chablis Grand Cru 'Valmur',9,1198994,tree_fruit,17
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',9,1203712,tree_fruit,33
+Coteau de Vernon Condrieu,9,1211155,tree_fruit,16
+Giallo d'Arles Greco di Tufo,9,1211299,tree_fruit,18
+Brut Rosé Champagne,9,1211816,tree_fruit,295
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,9,1214878,tree_fruit,17
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),9,1218424,tree_fruit,36
+Vieilles Vignes Châteauneuf-du-Pape Blanc,9,1235876,tree_fruit,21
+Grand Siècle Champagne (Grande Cuvée),9,1238419,tree_fruit,197
+'Giulio Ferrari' Riserva del Fondatore,9,1256452,tree_fruit,59
+Silex,9,1257923,tree_fruit,83
+Vénus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',9,1260481,tree_fruit,17
+Montrachet Grand Cru Marquis de Laguiche,9,1274124,tree_fruit,16
+Amour de Deutz Millésimé Brut Champagne,9,1301256,tree_fruit,90
+Pur Sang,9,1313331,tree_fruit,40
+Rosé Brut Champagne Grand Cru 'Ambonnay',9,1370760,tree_fruit,30
+Vittorio Moretti,9,1415420,tree_fruit,21
+Blanc des Millénaires,9,1441099,tree_fruit,140
+Meursault 1er Cru 'Les Genevrières',9,1474005,tree_fruit,16
+Cava Celler Batlle,9,1476982,tree_fruit,20
+Aszú 6 puttonyos,9,1549415,tree_fruit,16
+Chevalier-Montrachet Grand Cru Blanc,9,1607729,tree_fruit,11
+Reserva Particular de Recaredo Gran Reserva Brut Nature,9,1636506,tree_fruit,11
+Scharzhofberger Riesling Auslese,9,1637184,tree_fruit,17
+Riserva Nova Domus Terlaner,9,1683261,tree_fruit,55
+Pauillac (Premier Grand Cru Classé),9,1684223,tree_fruit,15
+Chassagne-Montrachet,9,1684635,tree_fruit,41
+Sir Winston Churchill Brut Champagne,9,1692390,tree_fruit,361
+Cuvée Risleus Brut Champagne Premier Cru,9,1716277,tree_fruit,13
+Corton-Charlemagne Grand Cru,9,1769969,tree_fruit,19
+5 Puttonyos Aszú (Blue Label),9,1789271,tree_fruit,122
+Bienvenues-Bâtard-Montrachet Grand Cru,9,1839377,tree_fruit,11
+Bâtard-Montrachet Grand Cru,9,1845897,tree_fruit,14
+Evenstad Reserve Pinot Noir,9,1882725,tree_fruit,10
+Tokaji Aszú 5 Puttonyos,9,1913596,tree_fruit,34
+Ribolla Gialla,9,1950121,tree_fruit,47
+Vin de Constance (Natural Sweet),9,1958101,tree_fruit,66
+Les Clos Chablís Grand Cru,9,1974097,tree_fruit,26
+Champagne,9,2025939,tree_fruit,34
+Vieilles Vignes Meursault,9,2035375,tree_fruit,15
+One Sixteen Chardonnay,9,2052637,tree_fruit,45
+Brut Rosé Champagne,9,2114480,tree_fruit,41
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',9,2148396,tree_fruit,70
+Brut Champagne (Gold),9,2240674,tree_fruit,87
+Aile d'Argent Blanc Bordeaux,9,2284844,tree_fruit,32
+Gaia & Rey Langhe,9,2410111,tree_fruit,32
+MV Rosé,9,2478174,tree_fruit,16
+Gorgona,9,2574273,tree_fruit,11
+Amour de Deutz Millesimé Rosé Brut Champagne,9,2951484,tree_fruit,12
+P2 Plénitude Brut Champagne,9,3102815,tree_fruit,157
+Cuvée des Enchanteleurs Brut Champagne,9,3630450,tree_fruit,54
+Les Blanchiens Brut Nature Champagne Premier Cru,9,4000447,tree_fruit,18
+Toscana Bianco,9,4344177,tree_fruit,13
+Reserve Chardonnay,9,5859611,tree_fruit,13
+LR,9,6108201,tree_fruit,11
+Rioja Blanco Reserva,9,6492988,tree_fruit,15
+Grande Cuvée,9,7122486,tree_fruit,686
+Guerriero del Mare,9,7135154,tree_fruit,61
+Tignanello,106,1652,citrus_fruit,15
+Castello della Sala Cervaro della Sala,106,1688,citrus_fruit,486
+Castello della Sala Muffato della Sala,106,1690,citrus_fruit,31
+Chardonnay,106,1697,citrus_fruit,654
+Sassicaia,106,5078,citrus_fruit,16
+Toscana Batar,106,6935,citrus_fruit,50
+Amarone della Valpolicella Classico,106,7103,citrus_fruit,15
+Corton-Charlemagne Grand Cru,106,7273,citrus_fruit,86
+Brut Cuvée Champagne Rosé,106,8305,citrus_fruit,436
+Brunello di Montalcino,106,9710,citrus_fruit,11
+Puligny-Montrachet Enseignères,106,11038,citrus_fruit,44
+Pauillac (Grand Cru Classé),106,14362,citrus_fruit,12
+Blanc de Blancs Brut Champagne Grand Cru,106,15617,citrus_fruit,152
+Montrachet Grand Cru Blanc,106,16527,citrus_fruit,15
+Barsac (Premier Grand Cru Classé),106,16786,citrus_fruit,57
+Pessac-Léognan (Grand Cru Classé de Graves),106,17656,citrus_fruit,29
+Chloe Chardonnay,106,17943,citrus_fruit,13
+Chardonnay,106,18903,citrus_fruit,56
+La Grande Année Brut Champagne,106,18931,citrus_fruit,454
+Cuvée Annamaria Clementi (Extra Brut),106,23130,citrus_fruit,35
+Beaune 1er Cru 'Clos des Mouches' Blanc,106,24063,citrus_fruit,36
+Puligny-Montrachet,106,24139,citrus_fruit,118
+Corton-Charlemagne Grand Cru,106,41524,citrus_fruit,58
+Barbaresco,106,66104,citrus_fruit,10
+Cabernet Sauvignon,106,66284,citrus_fruit,11
+Blanc de Blancs Brut Champagne (Vintage),106,74300,citrus_fruit,143
+Cristal Brut Champagne (Millésimé),106,74304,citrus_fruit,954
+Cristal Rosé Brut Champagne (Millésimé),106,74306,citrus_fruit,74
+Baron de L Pouilly-Fumé,106,74360,citrus_fruit,118
+Puligny-Montrachet Premier Cru Champ-Canet,106,75378,citrus_fruit,18
+Belondrade y Lurton,106,76476,citrus_fruit,105
+Unico,106,77137,citrus_fruit,11
+Tokaji Aszú 6 Puttonyos,106,77175,citrus_fruit,23
+Tokaji Aszú 3 Puttonyos,106,77182,citrus_fruit,41
+Quarz Sauvignon,106,77676,citrus_fruit,86
+Gewürztraminer Lunare,106,77679,citrus_fruit,17
+Belle Epoque Brut Champagne,106,79162,citrus_fruit,423
+Vintage,106,79631,citrus_fruit,406
+Rosé,106,79632,citrus_fruit,43
+Collection,106,79633,citrus_fruit,38
+Clos du Mesnil,106,79635,citrus_fruit,62
+Cuvée Nicolas François Billecart Brut Champagne,106,79835,citrus_fruit,173
+La Grande Dame Brut Champagne,106,79836,citrus_fruit,326
+Montrachet Grand Cru,106,79939,citrus_fruit,16
+Pessac-Léognan (Grand Cru Classé de Graves),106,82613,citrus_fruit,33
+Corton-Charlemagne Grand Cru,106,82779,citrus_fruit,254
+Clos des Goisses Champagne,106,83818,citrus_fruit,78
+Chevalier-Montrachet Grand Cru,106,84911,citrus_fruit,54
+Brut Champagne,106,86684,citrus_fruit,2596
+Scharzhofberger Riesling Kabinett,106,86685,citrus_fruit,72
+Scharzhofberger Riesling Spätlese,106,86686,citrus_fruit,38
+Buisson Renard,106,86698,citrus_fruit,45
+Châteauneuf-du-Pape Réservé Blanc,106,87554,citrus_fruit,11
+Tessons Clos de Mon Plaisir Meursault,106,87760,citrus_fruit,24
+Beyond the Clouds,106,92600,citrus_fruit,22
+Clos de la Coulée de Serrant,106,100492,citrus_fruit,65
+Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,106,1098615,citrus_fruit,21
+Chassagne-Montrachet 1er Cru 'La Maltroie',106,1099528,citrus_fruit,26
+Trebbiano d'Abruzzo,106,1105696,citrus_fruit,55
+Serral del Vell Brut Nature,106,1109743,citrus_fruit,28
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,106,1127349,citrus_fruit,240
+Château Margaux (Premier Grand Cru Classé),106,1127795,citrus_fruit,10
+Châteauneuf-du-Pape,106,1134803,citrus_fruit,11
+Sauternes (Premier Grand Cru Classé),106,1135215,citrus_fruit,134
+Comtes de Champagne Blanc de Blancs,106,1136950,citrus_fruit,720
+Brut Rosé Champagne,106,1148298,citrus_fruit,242
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),106,1148846,citrus_fruit,33
+Pessac-Léognan (Premier Grand Cru Classé),106,1152755,citrus_fruit,10
+Sauternes,106,1153863,citrus_fruit,201
+Corton-Charlemagne Grand Cru Blanc,106,1155694,citrus_fruit,47
+Les Noisetiers,106,1155762,citrus_fruit,174
+R.D Extra Brut Champagne (Récemment Dégorgé),106,1164702,citrus_fruit,149
+MV,106,1167182,citrus_fruit,131
+Capellanía Reserva,106,1173806,citrus_fruit,157
+Sauternes (Premier Grand Cru Classé),106,1174845,citrus_fruit,133
+Ben Ryé Passito di Pantelleria,106,1176121,citrus_fruit,80
+Clos Sainte Hune Riesling Alsace,106,1182677,citrus_fruit,99
+Dom Ruinart Blanc de Blancs Brut Champagne,106,1192720,citrus_fruit,250
+Chablis Grand Cru 'Valmur',106,1198994,citrus_fruit,41
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',106,1203712,citrus_fruit,26
+Coteau de Vernon Condrieu,106,1211155,citrus_fruit,29
+Giallo d'Arles Greco di Tufo,106,1211299,citrus_fruit,34
+Brut Rosé Champagne,106,1211816,citrus_fruit,441
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,106,1214878,citrus_fruit,27
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),106,1218424,citrus_fruit,30
+Vieilles Vignes Châteauneuf-du-Pape Blanc,106,1235876,citrus_fruit,17
+Grand Siècle Champagne (Grande Cuvée),106,1238419,citrus_fruit,296
+'Giulio Ferrari' Riserva del Fondatore,106,1256452,citrus_fruit,66
+Silex,106,1257923,citrus_fruit,185
+Vénus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',106,1260481,citrus_fruit,21
+Montrachet Grand Cru Marquis de Laguiche,106,1274124,citrus_fruit,41
+Corton-Charlemagne Grand Cru,106,1290765,citrus_fruit,18
+Amour de Deutz Millésimé Brut Champagne,106,1301256,citrus_fruit,89
+Pur Sang,106,1313331,citrus_fruit,93
+Rosé Brut Champagne Grand Cru 'Ambonnay',106,1370760,citrus_fruit,42
+La Grande Dame Brut Rosé Champagne,106,1384933,citrus_fruit,11
+Vittorio Moretti,106,1415420,citrus_fruit,27
+Montrachet Grand Cru,106,1435787,citrus_fruit,13
+Blanc des Millénaires,106,1441099,citrus_fruit,181
+Meursault 1er Cru 'Les Genevrières',106,1474005,citrus_fruit,13
+Cava Celler Batlle,106,1476982,citrus_fruit,26
+Aszú 6 puttonyos,106,1549415,citrus_fruit,27
+Bâtard-Montrachet Grand Cru,106,1598758,citrus_fruit,19
+Chevalier-Montrachet Grand Cru Blanc,106,1607729,citrus_fruit,33
+Scharzhofberger Riesling Auslese,106,1637184,citrus_fruit,14
+Riserva Nova Domus Terlaner,106,1683261,citrus_fruit,39
+Pauillac (Premier Grand Cru Classé),106,1684223,citrus_fruit,11
+Chassagne-Montrachet,106,1684635,citrus_fruit,89
+Sir Winston Churchill Brut Champagne,106,1692390,citrus_fruit,408
+Corton-Charlemagne Grand Cru,106,1769969,citrus_fruit,25
+Blanc,106,1776233,citrus_fruit,25
+Corton-Charlemagne Grand Cru,106,1779833,citrus_fruit,24
+5 Puttonyos Aszú (Blue Label),106,1789271,citrus_fruit,118
+Bienvenues-Bâtard-Montrachet Grand Cru,106,1839377,citrus_fruit,17
+Bâtard-Montrachet Grand Cru,106,1845897,citrus_fruit,20
+Evenstad Reserve Pinot Noir,106,1882725,citrus_fruit,10
+Opus One,106,1911534,citrus_fruit,10
+Tokaji Aszú 5 Puttonyos,106,1913596,citrus_fruit,46
+Corton-Charlemagne Grand Cru,106,1949999,citrus_fruit,12
+Ribolla Gialla,106,1950121,citrus_fruit,49
+Vin de Constance (Natural Sweet),106,1958101,citrus_fruit,129
+Les Clos Chablís Grand Cru,106,1974097,citrus_fruit,50
+Champagne,106,2025939,citrus_fruit,15
+Vieilles Vignes Meursault,106,2035375,citrus_fruit,33
+One Sixteen Chardonnay,106,2052637,citrus_fruit,76
+Brut Rosé Champagne,106,2114480,citrus_fruit,79
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',106,2148396,citrus_fruit,63
+Brut Champagne (Gold),106,2240674,citrus_fruit,74
+Aile d'Argent Blanc Bordeaux,106,2284844,citrus_fruit,94
+Gaia & Rey Langhe,106,2410111,citrus_fruit,69
+Amour de Deutz Millesimé Rosé Brut Champagne,106,2951484,citrus_fruit,13
+P2 Plénitude Brut Champagne,106,3102815,citrus_fruit,141
+Cuvée des Enchanteleurs Brut Champagne,106,3630450,citrus_fruit,25
+Les Blanchiens Brut Nature Champagne Premier Cru,106,4000447,citrus_fruit,11
+Toscana Bianco,106,4344177,citrus_fruit,20
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),106,4402538,citrus_fruit,25
+Puligny-Montrachet Premier Cru ' Clos de la Truffière',106,4740498,citrus_fruit,23
+Le Petit Cheval Bordeaux Blanc,106,5313010,citrus_fruit,28
+Reserve Chardonnay,106,5859611,citrus_fruit,41
+Rioja Blanco Reserva,106,6492988,citrus_fruit,10
+Hyde Vineyard Chardonnay,106,6887039,citrus_fruit,17
+Estate Reserve Viognier,106,6923500,citrus_fruit,10
+Grande Cuvée,106,7122486,citrus_fruit,916
+Guerriero del Mare,106,7135154,citrus_fruit,63
+Vin Santo di Montepulciano,117,1213,non_oak,10
+Vin Santo di Montepulciano,117,1213,oak,10
+St. Henri Shiraz,117,1268,non_oak,65
+St. Henri Shiraz,117,1268,oak,65
+Siepi,117,1471,non_oak,35
+Siepi,117,1471,oak,35
+Solare Toscana,117,1647,non_oak,31
+Solare Toscana,117,1647,oak,31
+Tenuta Tignanello 'Solaia',117,1651,non_oak,100
+Tenuta Tignanello 'Solaia',117,1651,oak,100
+Tignanello,117,1652,non_oak,271
+Tignanello,117,1652,oak,271
+Tenuta Guado al Tasso Bolgheri Superiore,117,1658,non_oak,117
+Tenuta Guado al Tasso Bolgheri Superiore,117,1658,oak,117
+Pian delle Vigne Brunello di Montalcino,117,1675,non_oak,70
+Pian delle Vigne Brunello di Montalcino,117,1675,oak,70
+Amarone della Valpolicella Classico,117,1835,non_oak,39
+Amarone della Valpolicella Classico,117,1835,oak,39
+Nicolás Catena Zapata,117,1868,non_oak,43
+Nicolás Catena Zapata,117,1868,oak,43
+Malbec Argentino,117,1869,non_oak,45
+Malbec Argentino,117,1869,oak,45
+Monte Bello,117,3715,non_oak,53
+Monte Bello,117,3715,oak,53
+Cabernet Sauvignon (Signature),117,3879,non_oak,41
+Cabernet Sauvignon (Signature),117,3879,oak,41
+Pauillac (Premier Grand Cru Classé),117,3908,non_oak,67
+Pauillac (Premier Grand Cru Classé),117,3908,oak,67
+Almaviva,117,4086,non_oak,123
+Almaviva,117,4086,oak,123
+Mille E Una Notte,117,4793,non_oak,22
+Mille E Una Notte,117,4793,oak,22
+Overture,117,4848,non_oak,34
+Overture,117,4848,oak,34
+Sassicaia,117,5078,non_oak,179
+Sassicaia,117,5078,oak,179
+Rutherford,117,5194,non_oak,15
+Rutherford,117,5194,oak,15
+Chateau Buena Vista Cabernet Sauvignon Napa Valley,117,5261,non_oak,14
+Chateau Buena Vista Cabernet Sauvignon Napa Valley,117,5261,oak,14
+Relentless,117,5278,non_oak,22
+Relentless,117,5278,oak,22
+Pavillon Rouge du Château Margaux,117,6020,non_oak,35
+Pavillon Rouge du Château Margaux,117,6020,oak,35
+Les Pavots,117,6892,non_oak,17
+Les Pavots,117,6892,oak,17
+Toscana Camartina,117,6942,non_oak,13
+Toscana Camartina,117,6942,oak,13
+Papillon,117,7073,non_oak,61
+Papillon,117,7073,oak,61
+Amarone della Valpolicella Classico,117,7103,non_oak,126
+Amarone della Valpolicella Classico,117,7103,oak,126
+Barolo Bricco Rocche,117,7133,non_oak,12
+Barolo Bricco Rocche,117,7133,oak,12
+Barolo Prapò,117,7134,non_oak,13
+Barolo Prapò,117,7134,oak,13
+Barolo Brunate,117,7135,non_oak,10
+Barolo Brunate,117,7135,oak,10
+Torre Muga,117,7494,non_oak,32
+Torre Muga,117,7494,oak,32
+Gran Reserva 890,117,7971,non_oak,25
+Gran Reserva 890,117,7971,oak,25
+IX Estate Red,117,8023,non_oak,10
+IX Estate Red,117,8023,oak,10
+Amarone della Valpolicella Classico,117,8195,non_oak,87
+Amarone della Valpolicella Classico,117,8195,oak,87
+Grand Vin de Château Palmer (Grand Cru Classé),117,9220,non_oak,111
+Grand Vin de Château Palmer (Grand Cru Classé),117,9220,oak,111
+Brunello di Montalcino,117,9710,non_oak,47
+Brunello di Montalcino,117,9710,oak,47
+Tenuta Nuova Brunello di Montalcino,117,9712,non_oak,65
+Tenuta Nuova Brunello di Montalcino,117,9712,oak,65
+Dominus (Christian Moueix),117,9958,non_oak,76
+Dominus (Christian Moueix),117,9958,oak,76
+La Joie,117,10022,non_oak,14
+La Joie,117,10022,oak,14
+Le Désir,117,10023,non_oak,11
+Le Désir,117,10023,oak,11
+Brunello di Montalcino,117,10151,non_oak,18
+Brunello di Montalcino,117,10151,oak,18
+Altero Brunello di Montalcino,117,10152,non_oak,13
+Altero Brunello di Montalcino,117,10152,oak,13
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,10175,non_oak,88
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,10175,oak,88
+Hermitage La Chapelle Rouge,117,10922,non_oak,60
+Hermitage La Chapelle Rouge,117,10922,oak,60
+Castillo Ygay Gran Reserva Especial Tinto,117,11001,non_oak,60
+Castillo Ygay Gran Reserva Especial Tinto,117,11001,oak,60
+Malleolus,117,11604,non_oak,86
+Malleolus,117,11604,oak,86
+Malleolus de Sanchomartin,117,11607,non_oak,20
+Malleolus de Sanchomartin,117,11607,oak,20
+Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,117,11665,non_oak,16
+Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,117,11665,oak,16
+Toscana I Sodi di San Niccolo,117,11733,non_oak,21
+Toscana I Sodi di San Niccolo,117,11733,oak,21
+60 Sessantanni Old Vines Primitivo di Manduria,117,11890,non_oak,136
+60 Sessantanni Old Vines Primitivo di Manduria,117,11890,oak,136
+Campo dei Gigli Amarone della Valpolicella,117,12085,non_oak,15
+Campo dei Gigli Amarone della Valpolicella,117,12085,oak,15
+Ribera del Duero Reserva,117,12263,non_oak,42
+Ribera del Duero Reserva,117,12263,oak,42
+Amarone della Valpolicella Classico,117,12393,non_oak,88
+Amarone della Valpolicella Classico,117,12393,oak,88
+Clos Apalta,117,13759,non_oak,76
+Clos Apalta,117,13759,oak,76
+Montepulciano d'Abruzzo,117,13969,non_oak,18
+Montepulciano d'Abruzzo,117,13969,oak,18
+Pauillac (Grand Cru Classé),117,14362,non_oak,201
+Pauillac (Grand Cru Classé),117,14362,oak,201
+Saint-Emilion Grand Cru (Premier Grand Cru Classé),117,14513,non_oak,13
+Saint-Emilion Grand Cru (Premier Grand Cru Classé),117,14513,oak,13
+Bricco dell'Uccellone Barbera d'Asti,117,15149,non_oak,27
+Bricco dell'Uccellone Barbera d'Asti,117,15149,oak,27
+Vürsù Barbaresco Starderi,117,15182,non_oak,16
+Vürsù Barbaresco Starderi,117,15182,oak,16
+Series C,117,16220,non_oak,25
+Series C,117,16220,oak,25
+Series M,117,16221,non_oak,11
+Series M,117,16221,oak,11
+Paleo Rosso,117,16414,non_oak,62
+Paleo Rosso,117,16414,oak,62
+Messorio,117,16418,non_oak,40
+Messorio,117,16418,oak,40
+Scrio,117,16419,non_oak,16
+Scrio,117,16419,oak,16
+Malbec,117,16504,non_oak,13
+Malbec,117,16504,oak,13
+Cabernet Sauvignon,117,16578,non_oak,80
+Cabernet Sauvignon,117,16578,oak,80
+Insignia,117,16587,non_oak,97
+Insignia,117,16587,oak,97
+Barolo Sorì Ginestra,117,16637,non_oak,10
+Barolo Sorì Ginestra,117,16637,oak,10
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,16778,non_oak,83
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,16778,oak,83
+Galatrona,117,16833,non_oak,37
+Galatrona,117,16833,oak,37
+Brunello di Montalcino,117,17474,non_oak,14
+Brunello di Montalcino,117,17474,oak,14
+Pessac-Léognan (Grand Cru Classé de Graves),117,17656,non_oak,105
+Pessac-Léognan (Grand Cru Classé de Graves),117,17656,oak,105
+Châteauneuf-du-Pape,117,18017,non_oak,12
+Châteauneuf-du-Pape,117,18017,oak,12
+Pomerol,117,18555,non_oak,94
+Pomerol,117,18555,oak,94
+Cirsion Rioja,117,18717,non_oak,16
+Cirsion Rioja,117,18717,oak,16
+La Grande Année Brut Champagne,117,18931,non_oak,32
+La Grande Année Brut Champagne,117,18931,oak,32
+Vigna Cappella di S. Stefano Perno Barolo,117,19250,non_oak,15
+Vigna Cappella di S. Stefano Perno Barolo,117,19250,oak,15
+Amarone della Valpolicella,117,19490,non_oak,12
+Amarone della Valpolicella,117,19490,oak,12
+Giramonte Toscana,117,20985,non_oak,17
+Giramonte Toscana,117,20985,oak,17
+Costasera Amarone della Valpolicella Classico,117,21929,non_oak,372
+Costasera Amarone della Valpolicella Classico,117,21929,oak,372
+Campolongo di Torbe Amarone della Valpolicella Classico,117,21938,non_oak,24
+Campolongo di Torbe Amarone della Valpolicella Classico,117,21938,oak,24
+Brunello di Montalcino Riserva Vigna Paganelli,117,22174,non_oak,19
+Brunello di Montalcino Riserva Vigna Paganelli,117,22174,oak,19
+Bolgheri Superiore,117,22447,non_oak,125
+Bolgheri Superiore,117,22447,oak,125
+Le Serre Nuove,117,22448,non_oak,101
+Le Serre Nuove,117,22448,oak,101
+Barolo Ginestra Casa Maté,117,22529,non_oak,10
+Barolo Ginestra Casa Maté,117,22529,oak,10
+Il Bricco Barbaresco,117,22554,non_oak,15
+Il Bricco Barbaresco,117,22554,oak,15
+Saint-Julien (Grand Cru Classé),117,22685,non_oak,153
+Saint-Julien (Grand Cru Classé),117,22685,oak,153
+Flaccianello della Pieve,117,22721,non_oak,78
+Flaccianello della Pieve,117,22721,oak,78
+25 anni Montefalco Sagrantino,117,23094,non_oak,23
+25 anni Montefalco Sagrantino,117,23094,oak,23
+Brunello di Montalcino,117,23240,non_oak,14
+Brunello di Montalcino,117,23240,oak,14
+Brunello di Montalcino,117,23264,non_oak,13
+Brunello di Montalcino,117,23264,oak,13
+Brunello di Montalcino,117,23271,non_oak,19
+Brunello di Montalcino,117,23271,oak,19
+Barolo Le Vigne,117,23363,non_oak,18
+Barolo Le Vigne,117,23363,oak,18
+Aconcagua Valley,117,25474,non_oak,68
+Aconcagua Valley,117,25474,oak,68
+5 Stelle Sfursat,117,28214,non_oak,35
+5 Stelle Sfursat,117,28214,oak,35
+The Armagh Shiraz,117,31124,non_oak,18
+The Armagh Shiraz,117,31124,oak,18
+Côte-Rôtie La Landonne,117,36404,non_oak,26
+Côte-Rôtie La Landonne,117,36404,oak,26
+Côte-Rôtie La Mouline,117,36434,non_oak,25
+Côte-Rôtie La Mouline,117,36434,oak,25
+Viña El Pison,117,49754,non_oak,13
+Viña El Pison,117,49754,oak,13
+Saint-Julien (Grand Cru Classé),117,61744,non_oak,102
+Saint-Julien (Grand Cru Classé),117,61744,oak,102
+Barbaresco,117,66104,non_oak,67
+Barbaresco,117,66104,oak,67
+Costa Russi (Barbaresco) Langhe,117,66114,non_oak,14
+Costa Russi (Barbaresco) Langhe,117,66114,oak,14
+Sorì San Lorenzo,117,66144,non_oak,12
+Sorì San Lorenzo,117,66144,oak,12
+Dagromis Barolo,117,66164,non_oak,18
+Dagromis Barolo,117,66164,oak,18
+Conteisa Langhe,117,66184,non_oak,13
+Conteisa Langhe,117,66184,oak,13
+Sperss Barolo,117,66194,non_oak,13
+Sperss Barolo,117,66194,oak,13
+Cabernet Sauvignon,117,66284,non_oak,173
+Cabernet Sauvignon,117,66284,oak,173
+Special Selection Cabernet Sauvignon,117,66294,non_oak,81
+Special Selection Cabernet Sauvignon,117,66294,oak,81
+Cristal Brut Champagne (Millésimé),117,74304,non_oak,26
+Cristal Brut Champagne (Millésimé),117,74304,oak,26
+Cos d'Estournel,117,74346,non_oak,231
+Cos d'Estournel,117,74346,oak,231
+Amarone della Valpolicella Classico,117,74522,non_oak,17
+Amarone della Valpolicella Classico,117,74522,oak,17
+Nine Popes,117,75183,non_oak,11
+Nine Popes,117,75183,oak,11
+Bric Dël Fiasc Barolo,117,75764,non_oak,19
+Bric Dël Fiasc Barolo,117,75764,oak,19
+Redigaffi Toscana,117,75816,non_oak,24
+Redigaffi Toscana,117,75816,oak,24
+Colheita Port,117,76378,non_oak,12
+Colheita Port,117,76378,oak,12
+Unico Reserva Especial Edición,117,77136,non_oak,20
+Unico Reserva Especial Edición,117,77136,oak,20
+Unico,117,77137,non_oak,117
+Unico,117,77137,oak,117
+Ribera del Duero,117,77171,non_oak,192
+Ribera del Duero,117,77171,oak,192
+Toro,117,77172,non_oak,184
+Toro,117,77172,oak,184
+Brunello di Montalcino,117,77458,non_oak,19
+Brunello di Montalcino,117,77458,oak,19
+Cepparello Red,117,77462,non_oak,45
+Cepparello Red,117,77462,oak,45
+Brunello di Montalcino  Montosoli,117,77472,non_oak,14
+Brunello di Montalcino  Montosoli,117,77472,oak,14
+Belle Epoque Brut Champagne,117,79162,non_oak,14
+Belle Epoque Brut Champagne,117,79162,oak,14
+Pauillac (Grand Cru Classé),117,79262,non_oak,147
+Pauillac (Grand Cru Classé),117,79262,oak,147
+Saint-Julien (Grand Cru Classé),117,79265,non_oak,119
+Saint-Julien (Grand Cru Classé),117,79265,oak,119
+Vintage,117,79631,non_oak,56
+Vintage,117,79631,oak,56
+Pauillac (Grand Cru Classé),117,79762,non_oak,157
+Pauillac (Grand Cru Classé),117,79762,oak,157
+Flor de Pingus,117,79814,non_oak,79
+Flor de Pingus,117,79814,oak,79
+La Grande Dame Brut Champagne,117,79836,non_oak,16
+La Grande Dame Brut Champagne,117,79836,oak,16
+Calcarole Amarone della Valpolicella Classico,117,79875,non_oak,25
+Calcarole Amarone della Valpolicella Classico,117,79875,oak,25
+Saint-Estèphe (Grand Cru Classé),117,80472,non_oak,94
+Saint-Estèphe (Grand Cru Classé),117,80472,oak,94
+Cerretalto Brunello di Montalcino,117,81836,non_oak,18
+Cerretalto Brunello di Montalcino,117,81836,oak,18
+Saint-Julien (Grand Cru Classé),117,81848,non_oak,107
+Saint-Julien (Grand Cru Classé),117,81848,oak,107
+Pomerol,117,81849,non_oak,46
+Pomerol,117,81849,oak,46
+Turriga Isola dei Nuraghi,117,82193,non_oak,36
+Turriga Isola dei Nuraghi,117,82193,oak,36
+Barolo Cascina Francia,117,82203,non_oak,13
+Barolo Cascina Francia,117,82203,oak,13
+Pessac-Léognan (Grand Cru Classé de Graves),117,82613,non_oak,117
+Pessac-Léognan (Grand Cru Classé de Graves),117,82613,oak,117
+Saffredi,117,82690,non_oak,33
+Saffredi,117,82690,oak,33
+Brunello di Montalcino Riserva,117,82698,non_oak,15
+Brunello di Montalcino Riserva,117,82698,oak,15
+Brunello di Montalcino,117,83173,non_oak,18
+Brunello di Montalcino,117,83173,oak,18
+Luce,117,83594,non_oak,54
+Luce,117,83594,oak,54
+Luce Brunello di Montalcino,117,83595,non_oak,12
+Luce Brunello di Montalcino,117,83595,oak,12
+Romanée-Saint-Vivant Grand Cru (Marey-Monge),117,83920,non_oak,10
+Romanée-Saint-Vivant Grand Cru (Marey-Monge),117,83920,oak,10
+Amarone della Valpolicella Classico,117,84065,non_oak,47
+Amarone della Valpolicella Classico,117,84065,oak,47
+Valpolicella Classico Superiore,117,84066,non_oak,36
+Valpolicella Classico Superiore,117,84066,oak,36
+Veneto Rosso del Bepi,117,84068,non_oak,15
+Veneto Rosso del Bepi,117,84068,oak,15
+Pedro Ximenez Tradición 20 Years Old Vos,117,84350,non_oak,23
+Pedro Ximenez Tradición 20 Years Old Vos,117,84350,oak,23
+Clos des Lambrays Grand Cru,117,84732,non_oak,28
+Clos des Lambrays Grand Cru,117,84732,oak,28
+Brunello di Montalcino,117,85205,non_oak,16
+Brunello di Montalcino,117,85205,oak,16
+Brut Champagne,117,86684,non_oak,145
+Brut Champagne,117,86684,oak,145
+Bolgheri Superiore,117,87674,non_oak,23
+Bolgheri Superiore,117,87674,oak,23
+Barbaresco Rabajà,117,88470,non_oak,16
+Barbaresco Rabajà,117,88470,oak,16
+Amarone della Valpolicella Monte Lodoletta,117,89750,non_oak,32
+Amarone della Valpolicella Monte Lodoletta,117,89750,oak,32
+Valpolicella Superiore Monte Lodoletta,117,89753,non_oak,61
+Valpolicella Superiore Monte Lodoletta,117,89753,oak,61
+L'Apparita,117,89900,non_oak,22
+L'Apparita,117,89900,oak,22
+Barolo Ciabot Mentin Ginestra,117,92702,non_oak,12
+Barolo Ciabot Mentin Ginestra,117,92702,oak,12
+Percarlo,117,94749,non_oak,14
+Percarlo,117,94749,oak,14
+Lupicaia,117,94816,non_oak,14
+Lupicaia,117,94816,oak,14
+Cabernet Sauvignon,117,94912,non_oak,16
+Cabernet Sauvignon,117,94912,oak,16
+Pomerol,117,95444,non_oak,45
+Pomerol,117,95444,oak,45
+La Cueva del Contador Rioja,117,98835,non_oak,13
+La Cueva del Contador Rioja,117,98835,oak,13
+Rioja Reserva,117,99572,non_oak,28
+Rioja Reserva,117,99572,oak,28
+Trasnocho,117,99584,non_oak,11
+Trasnocho,117,99584,oak,11
+Pomerol,117,768733,non_oak,52
+Pomerol,117,768733,oak,52
+Brunello di Montalcino,117,779523,non_oak,10
+Brunello di Montalcino,117,779523,oak,10
+Pomerol,117,1098770,non_oak,44
+Pomerol,117,1098770,oak,44
+L'Hermitage,117,1098851,non_oak,18
+L'Hermitage,117,1098851,oak,18
+Pomerol,117,1098981,non_oak,36
+Pomerol,117,1098981,oak,36
+Vecchie Vigne Brunello di Montalcino,117,1099118,non_oak,12
+Vecchie Vigne Brunello di Montalcino,117,1099118,oak,12
+Pomerol,117,1099373,non_oak,25
+Pomerol,117,1099373,oak,25
+Pomerol,117,1100223,non_oak,18
+Pomerol,117,1100223,oak,18
+Saint-Émilion Grand Cru,117,1100474,non_oak,10
+Saint-Émilion Grand Cru,117,1100474,oak,10
+Continuum Estate,117,1104820,non_oak,36
+Continuum Estate,117,1104820,oak,36
+Trebbiano d'Abruzzo,117,1105696,non_oak,21
+Trebbiano d'Abruzzo,117,1105696,oak,21
+Montepulciano d'Abruzzo,117,1105697,non_oak,10
+Montepulciano d'Abruzzo,117,1105697,oak,10
+FAY Cabernet Sauvignon,117,1107322,non_oak,33
+FAY Cabernet Sauvignon,117,1107322,oak,33
+ARTEMIS Cabernet Sauvignon,117,1107336,non_oak,116
+ARTEMIS Cabernet Sauvignon,117,1107336,oak,116
+S.L.V. Cabernet Sauvignon,117,1107342,non_oak,38
+S.L.V. Cabernet Sauvignon,117,1107342,oak,38
+Pomerol,117,1108737,non_oak,62
+Pomerol,117,1108737,oak,62
+Saint-Émilion Grand Cru,117,1112311,non_oak,30
+Saint-Émilion Grand Cru,117,1112311,oak,30
+Saint-Julien (Grand Cru Classé),117,1115658,non_oak,185
+Saint-Julien (Grand Cru Classé),117,1115658,oak,185
+Campo del Titari Amarone della Valpolicella Classico Riserva,117,1122281,non_oak,19
+Campo del Titari Amarone della Valpolicella Classico Riserva,117,1122281,oak,19
+Pauillac (Grand Cru Classé),117,1125543,non_oak,154
+Pauillac (Grand Cru Classé),117,1125543,oak,154
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,117,1127349,non_oak,12
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,117,1127349,oak,12
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),117,1127704,non_oak,36
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),117,1127704,oak,36
+Château Margaux (Premier Grand Cru Classé),117,1127795,non_oak,103
+Château Margaux (Premier Grand Cru Classé),117,1127795,oak,103
+Barolo Riserva Bricco Boschis Vigna San Giuseppe,117,1130208,non_oak,14
+Barolo Riserva Bricco Boschis Vigna San Giuseppe,117,1130208,oak,14
+Amarone della Valpolicella,117,1130300,non_oak,19
+Amarone della Valpolicella,117,1130300,oak,19
+Châteauneuf-du-Pape,117,1134803,non_oak,92
+Châteauneuf-du-Pape,117,1134803,oak,92
+Sauternes (Premier Grand Cru Classé),117,1135215,non_oak,16
+Sauternes (Premier Grand Cru Classé),117,1135215,oak,16
+Bolgheri Superiore,117,1135626,non_oak,30
+Bolgheri Superiore,117,1135626,oak,30
+Alexander Valley Cabernet Sauvignon,117,1135641,non_oak,84
+Alexander Valley Cabernet Sauvignon,117,1135641,oak,84
+One Point Five Cabernet Sauvignon,117,1135642,non_oak,40
+One Point Five Cabernet Sauvignon,117,1135642,oak,40
+Grange,117,1136930,non_oak,129
+Grange,117,1136930,oak,129
+Comtes de Champagne Blanc de Blancs,117,1136950,non_oak,39
+Comtes de Champagne Blanc de Blancs,117,1136950,oak,39
+Georges De Latour Private Reserve Cabernet Sauvignon,117,1138019,non_oak,30
+Georges De Latour Private Reserve Cabernet Sauvignon,117,1138019,oak,30
+Campo León Amarone della Valpolicella,117,1139286,non_oak,16
+Campo León Amarone della Valpolicella,117,1139286,oak,16
+Tinto,117,1139434,non_oak,43
+Tinto,117,1139434,oak,43
+Cabernet Sauvignon,117,1145391,non_oak,25
+Cabernet Sauvignon,117,1145391,oak,25
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1148747,non_oak,101
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1148747,oak,101
+La Chapelle de La Mission Haut-Brion Pessac-Léognan,117,1148839,non_oak,32
+La Chapelle de La Mission Haut-Brion Pessac-Léognan,117,1148839,oak,32
+Brunello di Montalcino,117,1150380,non_oak,33
+Brunello di Montalcino,117,1150380,oak,33
+Yarden Katzrin,117,1151275,non_oak,17
+Yarden Katzrin,117,1151275,oak,17
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1152417,non_oak,33
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1152417,oak,33
+Pessac-Léognan (Premier Grand Cru Classé),117,1152755,non_oak,129
+Pessac-Léognan (Premier Grand Cru Classé),117,1152755,oak,129
+Gran Corte (VII),117,1153455,non_oak,10
+Gran Corte (VII),117,1153455,oak,10
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1153702,non_oak,80
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1153702,oak,80
+Sauternes,117,1153863,non_oak,26
+Sauternes,117,1153863,oak,26
+Toscana,117,1155217,non_oak,16
+Toscana,117,1155217,oak,16
+Kairos,117,1159387,non_oak,12
+Kairos,117,1159387,oak,12
+Vürsù Barolo Campè,117,1160530,non_oak,13
+Vürsù Barolo Campè,117,1160530,oak,13
+Pomerol,117,1163799,non_oak,13
+Pomerol,117,1163799,oak,13
+R.D Extra Brut Champagne (Récemment Dégorgé),117,1164702,non_oak,17
+R.D Extra Brut Champagne (Récemment Dégorgé),117,1164702,oak,17
+Poggio all'Oro Brunello di Montalcino Riserva,117,1165001,non_oak,17
+Poggio all'Oro Brunello di Montalcino Riserva,117,1165001,oak,17
+Amarone della Valpolicella Classico,117,1165266,non_oak,19
+Amarone della Valpolicella Classico,117,1165266,oak,19
+Pieve Santa Restituta Brunello di Montalcino,117,1165708,non_oak,44
+Pieve Santa Restituta Brunello di Montalcino,117,1165708,oak,44
+Oreno Toscana,117,1166231,non_oak,52
+Oreno Toscana,117,1166231,oak,52
+Pomerol,117,1166837,non_oak,49
+Pomerol,117,1166837,oak,49
+Brunello di Montalcino,117,1167071,non_oak,11
+Brunello di Montalcino,117,1167071,oak,11
+MV,117,1167182,non_oak,10
+MV,117,1167182,oak,10
+Saint-Émilion Grand Cru (Grand Cru Classé),117,1167555,non_oak,15
+Saint-Émilion Grand Cru (Grand Cru Classé),117,1167555,oak,15
+Campo Inferi Amarone della Valpolicella Classico Riserva,117,1168085,non_oak,17
+Campo Inferi Amarone della Valpolicella Classico Riserva,117,1168085,oak,17
+Margaux (Grand Cru Classé),117,1168278,non_oak,77
+Margaux (Grand Cru Classé),117,1168278,oak,77
+Isosceles,117,1169307,non_oak,32
+Isosceles,117,1169307,oak,32
+Toscana Rosso,117,1169881,non_oak,14
+Toscana Rosso,117,1169881,oak,14
+Toscana,117,1171108,non_oak,10
+Toscana,117,1171108,oak,10
+Tinto,117,1171308,non_oak,13
+Tinto,117,1171308,oak,13
+Saint-Émilion Grand Cru,117,1172486,non_oak,69
+Saint-Émilion Grand Cru,117,1172486,oak,69
+San Vicente Rioja,117,1173140,non_oak,38
+San Vicente Rioja,117,1173140,oak,38
+Ai Suma Barbera d'Asti,117,1173535,non_oak,13
+Ai Suma Barbera d'Asti,117,1173535,oak,13
+Côtes de Bourg,117,1174700,non_oak,34
+Côtes de Bourg,117,1174700,oak,34
+Sauternes (Premier Grand Cru Classé),117,1174845,non_oak,13
+Sauternes (Premier Grand Cru Classé),117,1174845,oak,13
+Gran Reserva Rioja (Finca Ygay),117,1175180,non_oak,17
+Gran Reserva Rioja (Finca Ygay),117,1175180,oak,17
+Valbuena 5º,117,1175427,non_oak,122
+Valbuena 5º,117,1175427,oak,122
+Finca Altamira Malbec,117,1176258,non_oak,14
+Finca Altamira Malbec,117,1176258,oak,14
+Côte-Rôtie,117,1179007,non_oak,26
+Côte-Rôtie,117,1179007,oak,26
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1179539,non_oak,67
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1179539,oak,67
+Lagrein Riserva Porphyr,117,1182034,non_oak,15
+Lagrein Riserva Porphyr,117,1182034,oak,15
+Victorino,117,1182681,non_oak,39
+Victorino,117,1182681,oak,39
+Perpetual,117,1184728,non_oak,12
+Perpetual,117,1184728,oak,12
+Clos de Tart Grand Cru Monopole,117,1186041,non_oak,13
+Clos de Tart Grand Cru Monopole,117,1186041,oak,13
+Bibbona,117,1186753,non_oak,26
+Bibbona,117,1186753,oak,26
+Recioto della Valpolicella Classico,117,1187205,non_oak,13
+Recioto della Valpolicella Classico,117,1187205,oak,13
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1191335,non_oak,37
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1191335,oak,37
+Dom Ruinart Blanc de Blancs Brut Champagne,117,1192720,non_oak,22
+Dom Ruinart Blanc de Blancs Brut Champagne,117,1192720,oak,22
+Veneto Alzero Cabernet,117,1194532,non_oak,15
+Veneto Alzero Cabernet,117,1194532,oak,15
+Barolo Riserva,117,1203557,non_oak,32
+Barolo Riserva,117,1203557,oak,32
+Vintage Port,117,1206377,non_oak,17
+Vintage Port,117,1206377,oak,17
+Poggio Al Vento Brunello di Montalcino Riserva,117,1207722,non_oak,10
+Poggio Al Vento Brunello di Montalcino Riserva,117,1207722,oak,10
+Harlan Estate Red,117,1218210,non_oak,27
+Harlan Estate Red,117,1218210,oak,27
+Clio,117,1219218,non_oak,105
+Clio,117,1219218,oak,105
+Gold Series Syrah,117,1220581,non_oak,14
+Gold Series Syrah,117,1220581,oak,14
+Domus Aurea Cabernet Sauvignon,117,1226177,non_oak,17
+Domus Aurea Cabernet Sauvignon,117,1226177,oak,17
+Gran Enemigo,117,1235058,non_oak,18
+Gran Enemigo,117,1235058,oak,18
+Ca’ del Merlo Rosso Veneto,117,1236432,non_oak,13
+Ca’ del Merlo Rosso Veneto,117,1236432,oak,13
+Richebourg Grand Cru,117,1241604,non_oak,10
+Richebourg Grand Cru,117,1241604,oak,10
+Brunello di Montalcino Riserva Madonna del Piano,117,1242989,non_oak,20
+Brunello di Montalcino Riserva Madonna del Piano,117,1242989,oak,20
+Bramare Malbec Uco Valley,117,1247692,non_oak,17
+Bramare Malbec Uco Valley,117,1247692,oak,17
+Reserva Ribera del Duero,117,1251730,non_oak,26
+Reserva Ribera del Duero,117,1251730,oak,26
+Douro Pintas Tinto,117,1253819,non_oak,11
+Douro Pintas Tinto,117,1253819,oak,11
+Mai The First A.Montes Malbec,117,1258443,non_oak,23
+Mai The First A.Montes Malbec,117,1258443,oak,23
+Domaine des Tourettes Hermitage Rouge,117,1263078,non_oak,16
+Domaine des Tourettes Hermitage Rouge,117,1263078,oak,16
+Bolgheri Superiore Sondraia,117,1269657,non_oak,35
+Bolgheri Superiore Sondraia,117,1269657,oak,35
+Reserve Pinotage,117,1275268,non_oak,15
+Reserve Pinotage,117,1275268,oak,15
+Pieve Santa Restituta Sugarille Brunello di Montalcino,117,1298725,non_oak,10
+Pieve Santa Restituta Sugarille Brunello di Montalcino,117,1298725,oak,10
+Dalmau Rioja,117,1324170,non_oak,18
+Dalmau Rioja,117,1324170,oak,18
+Roda I Reserva Rioja,117,1383553,non_oak,69
+Roda I Reserva Rioja,117,1383553,oak,69
+Red,117,1386095,non_oak,13
+Red,117,1386095,oak,13
+Blueline Estate Cabernet Sauvignon,117,1424847,non_oak,12
+Blueline Estate Cabernet Sauvignon,117,1424847,oak,12
+Primitivo di Manduria,117,1438695,non_oak,11
+Primitivo di Manduria,117,1438695,oak,11
+Blanc des Millénaires,117,1441099,non_oak,27
+Blanc des Millénaires,117,1441099,oak,27
+Harlequin,117,1446306,non_oak,10
+Harlequin,117,1446306,oak,10
+Brunello di Montalcino Riserva,117,1458882,non_oak,16
+Brunello di Montalcino Riserva,117,1458882,oak,16
+Ares,117,1464100,non_oak,11
+Ares,117,1464100,oak,11
+Lupi Rezerva,117,1468452,non_oak,39
+Lupi Rezerva,117,1468452,oak,39
+Côte-Rôtie La Turque,117,1473611,non_oak,37
+Côte-Rôtie La Turque,117,1473611,oak,37
+Vin Santo di Montepulciano Occhio di Pernice,117,1502021,non_oak,15
+Vin Santo di Montepulciano Occhio di Pernice,117,1502021,oak,15
+VIK,117,1524704,non_oak,11
+VIK,117,1524704,oak,11
+Brunello di Montalcino,117,1558589,non_oak,40
+Brunello di Montalcino,117,1558589,oak,40
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1604635,non_oak,46
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),117,1604635,oak,46
+Pessac-Léognan (Grand Cru Classé de Graves),117,1605285,non_oak,43
+Pessac-Léognan (Grand Cru Classé de Graves),117,1605285,oak,43
+Kevin Arnold Shiraz,117,1627830,non_oak,12
+Kevin Arnold Shiraz,117,1627830,oak,12
+Grand Vin Pauillac (Premier Grand Cru Classé),117,1655970,non_oak,108
+Grand Vin Pauillac (Premier Grand Cru Classé),117,1655970,oak,108
+Il Pino di Biserno,117,1670059,non_oak,31
+Il Pino di Biserno,117,1670059,oak,31
+Howell Mountain Cabernet Sauvignon,117,1672854,non_oak,22
+Howell Mountain Cabernet Sauvignon,117,1672854,oak,22
+Pauillac (Premier Grand Cru Classé),117,1684223,non_oak,318
+Pauillac (Premier Grand Cru Classé),117,1684223,oak,318
+Sir Winston Churchill Brut Champagne,117,1692390,non_oak,13
+Sir Winston Churchill Brut Champagne,117,1692390,oak,13
+d'Alceo,117,1702712,non_oak,12
+d'Alceo,117,1702712,oak,12
+Kurni Marche,117,1755765,non_oak,20
+Kurni Marche,117,1755765,oak,20
+Boal Madeira,117,1824691,non_oak,13
+Boal Madeira,117,1824691,oak,13
+Pingus,117,1876294,non_oak,24
+Pingus,117,1876294,oak,24
+Evenstad Reserve Pinot Noir,117,1882725,non_oak,12
+Evenstad Reserve Pinot Noir,117,1882725,oak,12
+Opus One,117,1911534,non_oak,149
+Opus One,117,1911534,oak,149
+Macán Clásico,117,1921801,non_oak,52
+Macán Clásico,117,1921801,oak,52
+Amarone della Valpolicella Vigna Garzon,117,1923854,non_oak,10
+Amarone della Valpolicella Vigna Garzon,117,1923854,oak,10
+Mendoza,117,1926899,non_oak,64
+Mendoza,117,1926899,oak,64
+Vin de Constance (Natural Sweet),117,1958101,non_oak,13
+Vin de Constance (Natural Sweet),117,1958101,oak,13
+50 & 50,117,1958459,non_oak,13
+50 & 50,117,1958459,oak,13
+Pinotage,117,1974082,non_oak,17
+Pinotage,117,1974082,oak,17
+Macán,117,1994112,non_oak,41
+Macán,117,1994112,oak,41
+Barón de Chirel Rioja Reserva,117,2026372,non_oak,20
+Barón de Chirel Rioja Reserva,117,2026372,oak,20
+Valdegines,117,2049180,non_oak,10
+Valdegines,117,2049180,oak,10
+Gaudium,117,2076733,non_oak,32
+Gaudium,117,2076733,oak,32
+Hommage à Jacques Perrin Châteauneuf-du-Pape,117,2080162,non_oak,12
+Hommage à Jacques Perrin Châteauneuf-du-Pape,117,2080162,oak,12
+Rubicon,117,2128723,non_oak,23
+Rubicon,117,2128723,oak,23
+Duemani Cabernet Franc,117,2196050,non_oak,11
+Duemani Cabernet Franc,117,2196050,oak,11
+Fusion V,117,2355320,non_oak,57
+Fusion V,117,2355320,oak,57
+Don PX Convento Selección,117,2395864,non_oak,29
+Don PX Convento Selección,117,2395864,oak,29
+Pieve Santa Restituta Rennina Brunello di Montalcino,117,2430168,non_oak,22
+Pieve Santa Restituta Rennina Brunello di Montalcino,117,2430168,oak,22
+Toscana,117,2446729,non_oak,43
+Toscana,117,2446729,oak,43
+Mossone,117,2542844,non_oak,16
+Mossone,117,2542844,oak,16
+CASK 23 Cabernet Sauvignon,117,2653222,non_oak,27
+CASK 23 Cabernet Sauvignon,117,2653222,oak,27
+Pietro Dal Cero Amarone della Valpolicella,117,2716483,non_oak,13
+Pietro Dal Cero Amarone della Valpolicella,117,2716483,oak,13
+Le Petit Mouton de Mouton Rothschild Pauillac,117,2716528,non_oak,17
+Le Petit Mouton de Mouton Rothschild Pauillac,117,2716528,oak,17
+Red,117,2774263,non_oak,13
+Red,117,2774263,oak,13
+Mazzano Amarone Della Valpolicella Classico,117,3020206,non_oak,18
+Mazzano Amarone Della Valpolicella Classico,117,3020206,oak,18
+P2 Plénitude Brut Champagne,117,3102815,non_oak,14
+P2 Plénitude Brut Champagne,117,3102815,oak,14
+Pomerol,117,3151489,non_oak,22
+Pomerol,117,3151489,oak,22
+Cuvée des Enchanteleurs Brut Champagne,117,3630450,non_oak,14
+Cuvée des Enchanteleurs Brut Champagne,117,3630450,oak,14
+6 Anime Puglia Rosso,117,3667877,non_oak,10
+6 Anime Puglia Rosso,117,3667877,oak,10
+Saperavi,117,3783366,non_oak,14
+Saperavi,117,3783366,oak,14
+Cosimo Varvaglione Collezione Privata Primitivo di Manduria,117,4291453,non_oak,20
+Cosimo Varvaglione Collezione Privata Primitivo di Manduria,117,4291453,oak,20
+Altagracia Cabernet Sauvignon,117,4426928,non_oak,10
+Altagracia Cabernet Sauvignon,117,4426928,oak,10
+Brunello di Montalcino,117,4670172,non_oak,10
+Brunello di Montalcino,117,4670172,oak,10
+La Piu Belle,117,5571323,non_oak,22
+La Piu Belle,117,5571323,oak,22
+TD9,117,5725324,non_oak,56
+TD9,117,5725324,oak,56
+Eight Years In The Desert,117,6044826,non_oak,46
+Eight Years In The Desert,117,6044826,oak,46
+Limited Edition 10 Vendemmie,117,6139455,non_oak,45
+Limited Edition 10 Vendemmie,117,6139455,oak,45
+Guerriero della Terra,117,6331780,non_oak,12
+Guerriero della Terra,117,6331780,oak,12
+80 Vecchie Vigne Primitivo di Manduria Old Vines,117,6343385,non_oak,12
+80 Vecchie Vigne Primitivo di Manduria Old Vines,117,6343385,oak,12
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,117,6741558,non_oak,17
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,117,6741558,oak,17
+Grande Cuvée,117,7122486,non_oak,50
+Grande Cuvée,117,7122486,oak,50
+RWT Bin 798 Shiraz,117,7571198,non_oak,10
+RWT Bin 798 Shiraz,117,7571198,oak,10
+St. Henri Shiraz,123,1268,microbio,29
+Tenuta Tignanello 'Solaia',123,1651,microbio,33
+Tignanello,123,1652,microbio,96
+Tenuta Guado al Tasso Bolgheri Superiore,123,1658,microbio,28
+Pian delle Vigne Brunello di Montalcino,123,1675,microbio,26
+Castello della Sala Cervaro della Sala,123,1688,microbio,268
+Castello della Sala Muffato della Sala,123,1690,microbio,11
+Chardonnay,123,1697,microbio,318
+Amarone della Valpolicella Classico,123,1835,microbio,15
+Nicolás Catena Zapata,123,1868,microbio,24
+Malbec Argentino,123,1869,microbio,13
+Monte Bello,123,3715,microbio,27
+Cabernet Sauvignon (Signature),123,3879,microbio,17
+Pauillac (Premier Grand Cru Classé),123,3908,microbio,27
+Almaviva,123,4086,microbio,41
+Mille E Una Notte,123,4793,microbio,11
+Overture,123,4848,microbio,12
+Sassicaia,123,5078,microbio,75
+Rutherford,123,5194,microbio,20
+Chateau Buena Vista Cabernet Sauvignon Napa Valley,123,5261,microbio,10
+Relentless,123,5278,microbio,11
+Pavillon Rouge du Château Margaux,123,6020,microbio,19
+Les Pavots,123,6892,microbio,13
+Toscana Batar,123,6935,microbio,76
+Papillon,123,7073,microbio,29
+Amarone della Valpolicella Classico,123,7103,microbio,55
+Corton-Charlemagne Grand Cru,123,7273,microbio,110
+Torre Muga,123,7494,microbio,18
+Gran Reserva 890,123,7971,microbio,42
+Amarone della Valpolicella Classico,123,8195,microbio,21
+Brut Cuvée Champagne Rosé,123,8305,microbio,378
+Grand Vin de Château Palmer (Grand Cru Classé),123,9220,microbio,38
+Tenuta Nuova Brunello di Montalcino,123,9712,microbio,22
+Dominus (Christian Moueix),123,9958,microbio,58
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,10175,microbio,28
+Hermitage La Chapelle Rouge,123,10922,microbio,22
+Castillo Ygay Gran Reserva Especial Tinto,123,11001,microbio,71
+Puligny-Montrachet Enseignères,123,11038,microbio,12
+Malleolus,123,11604,microbio,12
+60 Sessantanni Old Vines Primitivo di Manduria,123,11890,microbio,27
+Amarone della Valpolicella Classico,123,12393,microbio,28
+Clos Apalta,123,13759,microbio,36
+Pauillac (Grand Cru Classé),123,14362,microbio,58
+Bricco dell'Uccellone Barbera d'Asti,123,15149,microbio,12
+Blanc de Blancs Brut Champagne Grand Cru,123,15617,microbio,118
+Paleo Rosso,123,16414,microbio,27
+Cabernet Sauvignon,123,16578,microbio,51
+Insignia,123,16587,microbio,51
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,16778,microbio,26
+Barsac (Premier Grand Cru Classé),123,16786,microbio,65
+Galatrona,123,16833,microbio,19
+Pessac-Léognan (Grand Cru Classé de Graves),123,17656,microbio,70
+Chloe Chardonnay,123,17943,microbio,15
+Châteauneuf-du-Pape,123,18017,microbio,11
+Pomerol,123,18555,microbio,13
+Chardonnay,123,18903,microbio,35
+La Grande Année Brut Champagne,123,18931,microbio,425
+Costasera Amarone della Valpolicella Classico,123,21929,microbio,49
+Bolgheri Superiore,123,22447,microbio,64
+Le Serre Nuove,123,22448,microbio,56
+Saint-Julien (Grand Cru Classé),123,22685,microbio,56
+Flaccianello della Pieve,123,22721,microbio,22
+Cuvée Annamaria Clementi (Extra Brut),123,23130,microbio,65
+Carruades de Lafite Pauillac,123,23793,microbio,11
+Beaune 1er Cru 'Clos des Mouches' Blanc,123,24063,microbio,30
+Puligny-Montrachet,123,24139,microbio,68
+Aconcagua Valley,123,25474,microbio,31
+The Armagh Shiraz,123,31124,microbio,12
+Corton-Charlemagne Grand Cru,123,41524,microbio,13
+Viña El Pison,123,49754,microbio,12
+Saint-Julien (Grand Cru Classé),123,61744,microbio,26
+Sperss Barolo,123,66194,microbio,15
+Cabernet Sauvignon,123,66284,microbio,252
+Special Selection Cabernet Sauvignon,123,66294,microbio,82
+Blanc de Blancs Brut Champagne (Vintage),123,74300,microbio,92
+Cristal Brut Champagne (Millésimé),123,74304,microbio,496
+Cristal Rosé Brut Champagne (Millésimé),123,74306,microbio,48
+Cos d'Estournel,123,74346,microbio,62
+Baron de L Pouilly-Fumé,123,74360,microbio,19
+Puligny-Montrachet Premier Cru Champ-Canet,123,75378,microbio,16
+Redigaffi Toscana,123,75816,microbio,13
+Colheita Port,123,76378,microbio,16
+Belondrade y Lurton,123,76476,microbio,75
+Unico Reserva Especial Edición,123,77136,microbio,11
+Unico,123,77137,microbio,53
+Ribera del Duero,123,77171,microbio,73
+Toro,123,77172,microbio,60
+Tokaji Aszú 3 Puttonyos,123,77182,microbio,18
+Cepparello Red,123,77462,microbio,16
+Quarz Sauvignon,123,77676,microbio,28
+Belle Epoque Brut Champagne,123,79162,microbio,207
+Pauillac (Grand Cru Classé),123,79262,microbio,49
+Saint-Julien (Grand Cru Classé),123,79265,microbio,42
+Vintage,123,79631,microbio,240
+Rosé,123,79632,microbio,56
+Collection,123,79633,microbio,36
+Clos du Mesnil,123,79635,microbio,16
+Pauillac (Grand Cru Classé),123,79762,microbio,36
+Flor de Pingus,123,79814,microbio,25
+Cuvée Nicolas François Billecart Brut Champagne,123,79835,microbio,134
+La Grande Dame Brut Champagne,123,79836,microbio,178
+Saint-Estèphe (Grand Cru Classé),123,80472,microbio,39
+Saint-Julien (Grand Cru Classé),123,81848,microbio,43
+Pomerol,123,81849,microbio,26
+Turriga Isola dei Nuraghi,123,82193,microbio,10
+Barolo Cascina Francia,123,82203,microbio,10
+Pessac-Léognan (Grand Cru Classé de Graves),123,82613,microbio,53
+Saffredi,123,82690,microbio,21
+Corton-Charlemagne Grand Cru,123,82779,microbio,132
+Luce,123,83594,microbio,15
+Clos des Goisses Champagne,123,83818,microbio,65
+Valpolicella Classico Superiore,123,84066,microbio,12
+Chevalier-Montrachet Grand Cru,123,84911,microbio,22
+Brut Champagne,123,86684,microbio,1564
+Scharzhofberger Riesling Kabinett,123,86685,microbio,16
+Buisson Renard,123,86698,microbio,13
+Bolgheri Superiore,123,87674,microbio,12
+Valpolicella Superiore Monte Lodoletta,123,89753,microbio,11
+Beyond the Clouds,123,92600,microbio,56
+Pomerol,123,95444,microbio,22
+Rioja Reserva,123,99572,microbio,16
+Clos de la Coulée de Serrant,123,100492,microbio,45
+Pomerol,123,768733,microbio,29
+Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,123,1098615,microbio,14
+Pomerol,123,1098770,microbio,12
+Pomerol,123,1098981,microbio,21
+Vecchie Vigne Brunello di Montalcino,123,1099118,microbio,10
+Chassagne-Montrachet 1er Cru 'La Maltroie',123,1099528,microbio,19
+Continuum Estate,123,1104820,microbio,11
+Trebbiano d'Abruzzo,123,1105696,microbio,27
+FAY Cabernet Sauvignon,123,1107322,microbio,12
+ARTEMIS Cabernet Sauvignon,123,1107336,microbio,93
+Pomerol,123,1108737,microbio,15
+Serral del Vell Brut Nature,123,1109743,microbio,38
+Saint-Émilion Grand Cru,123,1112311,microbio,11
+Saint-Julien (Grand Cru Classé),123,1115658,microbio,65
+Pauillac (Grand Cru Classé),123,1125543,microbio,46
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,123,1127349,microbio,118
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),123,1127704,microbio,12
+Château Margaux (Premier Grand Cru Classé),123,1127795,microbio,37
+Châteauneuf-du-Pape,123,1134803,microbio,49
+Sauternes (Premier Grand Cru Classé),123,1135215,microbio,126
+Bolgheri Superiore,123,1135626,microbio,10
+Alexander Valley Cabernet Sauvignon,123,1135641,microbio,46
+One Point Five Cabernet Sauvignon,123,1135642,microbio,28
+Grange,123,1136930,microbio,44
+Comtes de Champagne Blanc de Blancs,123,1136950,microbio,589
+Georges De Latour Private Reserve Cabernet Sauvignon,123,1138019,microbio,15
+Tinto,123,1139434,microbio,23
+Cabernet Sauvignon,123,1145391,microbio,11
+Brut Rosé Champagne,123,1148298,microbio,222
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,1148747,microbio,36
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),123,1148846,microbio,13
+Brunello di Montalcino,123,1150380,microbio,10
+Pessac-Léognan (Premier Grand Cru Classé),123,1152755,microbio,38
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,1153702,microbio,33
+Sauternes,123,1153863,microbio,215
+Toscana,123,1155217,microbio,11
+Corton-Charlemagne Grand Cru Blanc,123,1155694,microbio,35
+Les Noisetiers,123,1155762,microbio,197
+Vürsù Barolo Campè,123,1160530,microbio,10
+Pomerol,123,1163799,microbio,10
+R.D Extra Brut Champagne (Récemment Dégorgé),123,1164702,microbio,157
+Pieve Santa Restituta Brunello di Montalcino,123,1165708,microbio,15
+Oreno Toscana,123,1166231,microbio,21
+Pomerol,123,1166837,microbio,18
+MV,123,1167182,microbio,109
+Margaux (Grand Cru Classé),123,1168278,microbio,22
+Isosceles,123,1169307,microbio,16
+Tinto,123,1171308,microbio,14
+Saint-Émilion Grand Cru,123,1172486,microbio,15
+Capellanía Reserva,123,1173806,microbio,131
+Côtes de Bourg,123,1174700,microbio,11
+Sauternes (Premier Grand Cru Classé),123,1174845,microbio,151
+Valbuena 5º,123,1175427,microbio,60
+Ben Ryé Passito di Pantelleria,123,1176121,microbio,35
+Finca Altamira Malbec,123,1176258,microbio,13
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,1179539,microbio,19
+Clos Sainte Hune Riesling Alsace,123,1182677,microbio,13
+Victorino,123,1182681,microbio,15
+Musigny Grand Cru (Cuveé Vieilles Vignes),123,1187200,microbio,10
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,1191335,microbio,18
+Dom Ruinart Blanc de Blancs Brut Champagne,123,1192720,microbio,165
+Chablis Grand Cru 'Valmur',123,1198994,microbio,15
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',123,1203712,microbio,30
+Vintage Port,123,1206377,microbio,10
+Coteau de Vernon Condrieu,123,1211155,microbio,34
+Brut Rosé Champagne,123,1211816,microbio,364
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,123,1214878,microbio,21
+Harlan Estate Red,123,1218210,microbio,20
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),123,1218424,microbio,19
+Clio,123,1219218,microbio,54
+Vieilles Vignes Châteauneuf-du-Pape Blanc,123,1235876,microbio,38
+Grand Siècle Champagne (Grande Cuvée),123,1238419,microbio,169
+Reserva Ribera del Duero,123,1251730,microbio,13
+'Giulio Ferrari' Riserva del Fondatore,123,1256452,microbio,72
+Silex,123,1257923,microbio,45
+Domaine des Tourettes Hermitage Rouge,123,1263078,microbio,15
+Montrachet Grand Cru Marquis de Laguiche,123,1274124,microbio,27
+Reserve Pinotage,123,1275268,microbio,13
+Corton-Charlemagne Grand Cru,123,1290765,microbio,10
+Amour de Deutz Millésimé Brut Champagne,123,1301256,microbio,92
+Pur Sang,123,1313331,microbio,23
+Dalmau Rioja,123,1324170,microbio,19
+Rosé Brut Champagne Grand Cru 'Ambonnay',123,1370760,microbio,47
+Roda I Reserva Rioja,123,1383553,microbio,41
+La Grande Dame Brut Rosé Champagne,123,1384933,microbio,13
+Vittorio Moretti,123,1415420,microbio,12
+Blanc des Millénaires,123,1441099,microbio,149
+Brut Rosé Champagne,123,1441825,microbio,13
+Côte-Rôtie La Turque,123,1473611,microbio,11
+Cava Celler Batlle,123,1476982,microbio,25
+Aszú 6 puttonyos,123,1549415,microbio,17
+Brunello di Montalcino,123,1558589,microbio,11
+Bâtard-Montrachet Grand Cru,123,1598758,microbio,14
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),123,1604635,microbio,22
+Pessac-Léognan (Grand Cru Classé de Graves),123,1605285,microbio,20
+Chevalier-Montrachet Grand Cru Blanc,123,1607729,microbio,32
+Scharzhofberger Riesling Auslese,123,1637184,microbio,13
+Grand Vin Pauillac (Premier Grand Cru Classé),123,1655970,microbio,29
+Il Pino di Biserno,123,1670059,microbio,19
+Il San Lorenzo Bianco,123,1680438,microbio,13
+Riserva Nova Domus Terlaner,123,1683261,microbio,41
+Pauillac (Premier Grand Cru Classé),123,1684223,microbio,78
+Chassagne-Montrachet,123,1684635,microbio,45
+Sir Winston Churchill Brut Champagne,123,1692390,microbio,290
+Corton-Charlemagne Grand Cru,123,1769969,microbio,10
+Blanc,123,1776233,microbio,29
+Corton-Charlemagne Grand Cru,123,1779833,microbio,13
+5 Puttonyos Aszú (Blue Label),123,1789271,microbio,68
+Bâtard-Montrachet Grand Cru,123,1845897,microbio,11
+Puligny-Montrachet Premier Cru Les Combettes,123,1874987,microbio,10
+Evenstad Reserve Pinot Noir,123,1882725,microbio,27
+Opus One,123,1911534,microbio,119
+Tokaji Aszú 5 Puttonyos,123,1913596,microbio,19
+Macán Clásico,123,1921801,microbio,11
+Mendoza,123,1926899,microbio,23
+Ribolla Gialla,123,1950121,microbio,14
+Vin de Constance (Natural Sweet),123,1958101,microbio,81
+Les Clos Chablís Grand Cru,123,1974097,microbio,23
+Cream Tradición Vos 20 Years,123,1980986,microbio,22
+Macán,123,1994112,microbio,14
+Champagne,123,2025939,microbio,17
+Vieilles Vignes Meursault,123,2035375,microbio,17
+One Sixteen Chardonnay,123,2052637,microbio,17
+Gaudium,123,2076733,microbio,11
+Brut Rosé Champagne,123,2114480,microbio,141
+Rubicon,123,2128723,microbio,12
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',123,2148396,microbio,31
+Brut Champagne (Gold),123,2240674,microbio,54
+Aile d'Argent Blanc Bordeaux,123,2284844,microbio,37
+Gaia & Rey Langhe,123,2410111,microbio,53
+Toscana,123,2446729,microbio,16
+Gorgona,123,2574273,microbio,12
+CASK 23 Cabernet Sauvignon,123,2653222,microbio,11
+Amour de Deutz Millesimé Rosé Brut Champagne,123,2951484,microbio,18
+P2 Plénitude Brut Champagne,123,3102815,microbio,135
+Cuvée des Enchanteleurs Brut Champagne,123,3630450,microbio,37
+Saperavi,123,3783366,microbio,10
+Toscana Bianco,123,4344177,microbio,12
+Lion Tamer Napa Valley Red Blend,123,4801666,microbio,16
+Le Petit Cheval Bordeaux Blanc,123,5313010,microbio,15
+Cinque Autoctoni Collection Limited Release,123,5364329,microbio,11
+La Piu Belle,123,5571323,microbio,14
+Reserve Chardonnay,123,5859611,microbio,17
+Eight Years In The Desert,123,6044826,microbio,41
+Limited Edition 10 Vendemmie,123,6139455,microbio,15
+VV 26 Blanc de Blancs Vieilles Vignes Grand Cru Brut,123,6255066,microbio,10
+Guerriero della Terra,123,6331780,microbio,12
+Rioja Blanco Reserva,123,6492988,microbio,14
+Grande Cuvée,123,7122486,microbio,439
+Guerriero del Mare,123,7135154,microbio,17
+Castello della Sala Cervaro della Sala,195,1688,tree_fruit,72
+Chardonnay,195,1697,tree_fruit,406
+Toscana Batar,195,6935,tree_fruit,13
+Corton-Charlemagne Grand Cru,195,7273,tree_fruit,16
+Brut Cuvée Champagne Rosé,195,8305,tree_fruit,66
+Blanc de Blancs Brut Champagne Grand Cru,195,15617,tree_fruit,74
+Chardonnay,195,18903,tree_fruit,12
+La Grande Année Brut Champagne,195,18931,tree_fruit,175
+Cuvée Annamaria Clementi (Extra Brut),195,23130,tree_fruit,20
+Puligny-Montrachet,195,24139,tree_fruit,15
+Corton-Charlemagne Grand Cru,195,41524,tree_fruit,14
+Blanc de Blancs Brut Champagne (Vintage),195,74300,tree_fruit,62
+Cristal Brut Champagne (Millésimé),195,74304,tree_fruit,298
+Cristal Rosé Brut Champagne (Millésimé),195,74306,tree_fruit,15
+Baron de L Pouilly-Fumé,195,74360,tree_fruit,48
+Belondrade y Lurton,195,76476,tree_fruit,27
+Quarz Sauvignon,195,77676,tree_fruit,24
+Belle Epoque Brut Champagne,195,79162,tree_fruit,224
+Vintage,195,79631,tree_fruit,96
+Clos du Mesnil,195,79635,tree_fruit,19
+Cuvée Nicolas François Billecart Brut Champagne,195,79835,tree_fruit,53
+La Grande Dame Brut Champagne,195,79836,tree_fruit,111
+Corton-Charlemagne Grand Cru,195,82779,tree_fruit,48
+Clos des Goisses Champagne,195,83818,tree_fruit,24
+Brut Champagne,195,86684,tree_fruit,893
+Scharzhofberger Riesling Kabinett,195,86685,tree_fruit,36
+Buisson Renard,195,86698,tree_fruit,16
+Beyond the Clouds,195,92600,tree_fruit,13
+Clos de la Coulée de Serrant,195,100492,tree_fruit,14
+Trebbiano d'Abruzzo,195,1105696,tree_fruit,14
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,195,1127349,tree_fruit,76
+Sauternes (Premier Grand Cru Classé),195,1135215,tree_fruit,10
+Comtes de Champagne Blanc de Blancs,195,1136950,tree_fruit,249
+Brut Rosé Champagne,195,1148298,tree_fruit,29
+Sauternes,195,1153863,tree_fruit,13
+Corton-Charlemagne Grand Cru Blanc,195,1155694,tree_fruit,19
+Les Noisetiers,195,1155762,tree_fruit,44
+R.D Extra Brut Champagne (Récemment Dégorgé),195,1164702,tree_fruit,34
+MV,195,1167182,tree_fruit,33
+Capellanía Reserva,195,1173806,tree_fruit,31
+Clos Sainte Hune Riesling Alsace,195,1182677,tree_fruit,36
+Dom Ruinart Blanc de Blancs Brut Champagne,195,1192720,tree_fruit,86
+Chablis Grand Cru 'Valmur',195,1198994,tree_fruit,11
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',195,1203712,tree_fruit,20
+Brut Rosé Champagne,195,1211816,tree_fruit,91
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,195,1214878,tree_fruit,13
+Grand Siècle Champagne (Grande Cuvée),195,1238419,tree_fruit,136
+'Giulio Ferrari' Riserva del Fondatore,195,1256452,tree_fruit,15
+Silex,195,1257923,tree_fruit,48
+Vénus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',195,1260481,tree_fruit,13
+Amour de Deutz Millésimé Brut Champagne,195,1301256,tree_fruit,25
+Pur Sang,195,1313331,tree_fruit,29
+Blanc des Millénaires,195,1441099,tree_fruit,66
+Cava Celler Batlle,195,1476982,tree_fruit,15
+Chassagne-Montrachet,195,1684635,tree_fruit,10
+Sir Winston Churchill Brut Champagne,195,1692390,tree_fruit,127
+5 Puttonyos Aszú (Blue Label),195,1789271,tree_fruit,12
+Les Clos Chablís Grand Cru,195,1974097,tree_fruit,11
+One Sixteen Chardonnay,195,2052637,tree_fruit,43
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',195,2148396,tree_fruit,26
+Brut Champagne (Gold),195,2240674,tree_fruit,28
+Aile d'Argent Blanc Bordeaux,195,2284844,tree_fruit,12
+Gaia & Rey Langhe,195,2410111,tree_fruit,20
+P2 Plénitude Brut Champagne,195,3102815,tree_fruit,30
+Cuvée des Enchanteleurs Brut Champagne,195,3630450,tree_fruit,11
+Toscana Bianco,195,4344177,tree_fruit,16
+Puligny-Montrachet Premier Cru ' Clos de la Truffière',195,4740498,tree_fruit,17
+Grande Cuvée,195,7122486,tree_fruit,304
+St. Henri Shiraz,417,1268,microbio,10
+St. Henri Shiraz,417,1268,non_oak,10
+Siepi,417,1471,microbio,13
+Siepi,417,1471,non_oak,13
+Tenuta Tignanello 'Solaia',417,1651,microbio,19
+Tenuta Tignanello 'Solaia',417,1651,non_oak,19
+Tignanello,417,1652,microbio,61
+Tignanello,417,1652,non_oak,61
+Tenuta Guado al Tasso Bolgheri Superiore,417,1658,microbio,22
+Tenuta Guado al Tasso Bolgheri Superiore,417,1658,non_oak,22
+Pian delle Vigne Brunello di Montalcino,417,1675,microbio,11
+Pian delle Vigne Brunello di Montalcino,417,1675,non_oak,11
+Castello della Sala Cervaro della Sala,417,1688,microbio,78
+Castello della Sala Cervaro della Sala,417,1688,non_oak,78
+Chardonnay,417,1697,microbio,89
+Chardonnay,417,1697,non_oak,89
+Malbec Argentino,417,1869,microbio,14
+Malbec Argentino,417,1869,non_oak,14
+Puligny-Montrachet 1er Cru 'La Garenne',417,2997,microbio,13
+Puligny-Montrachet 1er Cru 'La Garenne',417,2997,non_oak,13
+Monte Bello,417,3715,microbio,15
+Monte Bello,417,3715,non_oak,15
+Pauillac (Premier Grand Cru Classé),417,3908,microbio,17
+Pauillac (Premier Grand Cru Classé),417,3908,non_oak,17
+Almaviva,417,4086,microbio,30
+Almaviva,417,4086,non_oak,30
+Sassicaia,417,5078,microbio,47
+Sassicaia,417,5078,non_oak,47
+Pavillon Rouge du Château Margaux,417,6020,microbio,13
+Pavillon Rouge du Château Margaux,417,6020,non_oak,13
+Toscana Batar,417,6935,microbio,19
+Toscana Batar,417,6935,non_oak,19
+Papillon,417,7073,microbio,38
+Papillon,417,7073,non_oak,38
+Amarone della Valpolicella Classico,417,7103,microbio,25
+Amarone della Valpolicella Classico,417,7103,non_oak,25
+Corton-Charlemagne Grand Cru,417,7273,microbio,43
+Corton-Charlemagne Grand Cru,417,7273,non_oak,43
+Torre Muga,417,7494,microbio,18
+Torre Muga,417,7494,non_oak,18
+Gran Reserva 890,417,7971,microbio,26
+Gran Reserva 890,417,7971,non_oak,26
+Amarone della Valpolicella Classico,417,8195,microbio,15
+Amarone della Valpolicella Classico,417,8195,non_oak,15
+Brut Cuvée Champagne Rosé,417,8305,microbio,251
+Brut Cuvée Champagne Rosé,417,8305,non_oak,251
+Grand Vin de Château Palmer (Grand Cru Classé),417,9220,microbio,35
+Grand Vin de Château Palmer (Grand Cru Classé),417,9220,non_oak,35
+Brunello di Montalcino,417,9710,microbio,14
+Brunello di Montalcino,417,9710,non_oak,14
+Dominus (Christian Moueix),417,9958,microbio,25
+Dominus (Christian Moueix),417,9958,non_oak,25
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,10175,microbio,23
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,10175,non_oak,23
+Hermitage La Chapelle Rouge,417,10922,microbio,18
+Hermitage La Chapelle Rouge,417,10922,non_oak,18
+Castillo Ygay Gran Reserva Especial Tinto,417,11001,microbio,34
+Castillo Ygay Gran Reserva Especial Tinto,417,11001,non_oak,34
+Puligny-Montrachet Enseignères,417,11038,microbio,11
+Puligny-Montrachet Enseignères,417,11038,non_oak,11
+Malleolus,417,11604,microbio,26
+Malleolus,417,11604,non_oak,26
+60 Sessantanni Old Vines Primitivo di Manduria,417,11890,microbio,11
+60 Sessantanni Old Vines Primitivo di Manduria,417,11890,non_oak,11
+Ribera del Duero Reserva,417,12263,microbio,22
+Ribera del Duero Reserva,417,12263,non_oak,22
+Amarone della Valpolicella Classico,417,12393,microbio,14
+Amarone della Valpolicella Classico,417,12393,non_oak,14
+Clos Apalta,417,13759,microbio,13
+Clos Apalta,417,13759,non_oak,13
+Pauillac (Grand Cru Classé),417,14362,microbio,49
+Pauillac (Grand Cru Classé),417,14362,non_oak,49
+Bricco dell'Uccellone Barbera d'Asti,417,15149,microbio,11
+Bricco dell'Uccellone Barbera d'Asti,417,15149,non_oak,11
+Blanc de Blancs Brut Champagne Grand Cru,417,15617,microbio,126
+Blanc de Blancs Brut Champagne Grand Cru,417,15617,non_oak,126
+Cabernet Sauvignon,417,16578,microbio,26
+Cabernet Sauvignon,417,16578,non_oak,26
+Insignia,417,16587,microbio,29
+Insignia,417,16587,non_oak,29
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,16778,microbio,13
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,16778,non_oak,13
+Barsac (Premier Grand Cru Classé),417,16786,microbio,19
+Barsac (Premier Grand Cru Classé),417,16786,non_oak,19
+Pessac-Léognan (Grand Cru Classé de Graves),417,17656,microbio,31
+Pessac-Léognan (Grand Cru Classé de Graves),417,17656,non_oak,31
+Pomerol,417,18555,microbio,31
+Pomerol,417,18555,non_oak,31
+Cirsion Rioja,417,18717,microbio,10
+Cirsion Rioja,417,18717,non_oak,10
+Chardonnay,417,18903,microbio,13
+Chardonnay,417,18903,non_oak,13
+La Grande Année Brut Champagne,417,18931,microbio,525
+La Grande Année Brut Champagne,417,18931,non_oak,525
+Costasera Amarone della Valpolicella Classico,417,21929,microbio,34
+Costasera Amarone della Valpolicella Classico,417,21929,non_oak,34
+Bolgheri Superiore,417,22447,microbio,40
+Bolgheri Superiore,417,22447,non_oak,40
+Le Serre Nuove,417,22448,microbio,24
+Le Serre Nuove,417,22448,non_oak,24
+Saint-Julien (Grand Cru Classé),417,22685,microbio,43
+Saint-Julien (Grand Cru Classé),417,22685,non_oak,43
+Flaccianello della Pieve,417,22721,microbio,25
+Flaccianello della Pieve,417,22721,non_oak,25
+Cuvée Annamaria Clementi (Extra Brut),417,23130,microbio,40
+Cuvée Annamaria Clementi (Extra Brut),417,23130,non_oak,40
+Puligny-Montrachet,417,24139,microbio,27
+Puligny-Montrachet,417,24139,non_oak,27
+Aconcagua Valley,417,25474,microbio,29
+Aconcagua Valley,417,25474,non_oak,29
+Corton-Charlemagne Grand Cru,417,41524,microbio,16
+Corton-Charlemagne Grand Cru,417,41524,non_oak,16
+Saint-Julien (Grand Cru Classé),417,61744,microbio,32
+Saint-Julien (Grand Cru Classé),417,61744,non_oak,32
+Cabernet Sauvignon,417,66284,microbio,78
+Cabernet Sauvignon,417,66284,non_oak,78
+Special Selection Cabernet Sauvignon,417,66294,microbio,25
+Special Selection Cabernet Sauvignon,417,66294,non_oak,25
+Blanc de Blancs Brut Champagne (Vintage),417,74300,microbio,56
+Blanc de Blancs Brut Champagne (Vintage),417,74300,non_oak,56
+Cristal Brut Champagne (Millésimé),417,74304,microbio,464
+Cristal Brut Champagne (Millésimé),417,74304,non_oak,464
+Cristal Rosé Brut Champagne (Millésimé),417,74306,microbio,51
+Cristal Rosé Brut Champagne (Millésimé),417,74306,non_oak,51
+Cos d'Estournel,417,74346,microbio,54
+Cos d'Estournel,417,74346,non_oak,54
+Nine Popes,417,75183,microbio,14
+Nine Popes,417,75183,non_oak,14
+Redigaffi Toscana,417,75816,microbio,11
+Redigaffi Toscana,417,75816,non_oak,11
+Quinta da Leda Douro,417,75978,microbio,10
+Quinta da Leda Douro,417,75978,non_oak,10
+Belondrade y Lurton,417,76476,microbio,13
+Belondrade y Lurton,417,76476,non_oak,13
+Unico,417,77137,microbio,38
+Unico,417,77137,non_oak,38
+Ribera del Duero,417,77171,microbio,59
+Ribera del Duero,417,77171,non_oak,59
+Toro,417,77172,microbio,58
+Toro,417,77172,non_oak,58
+Tokaji Aszú 3 Puttonyos,417,77182,microbio,10
+Tokaji Aszú 3 Puttonyos,417,77182,non_oak,10
+Cepparello Red,417,77462,microbio,11
+Cepparello Red,417,77462,non_oak,11
+Belle Epoque Brut Champagne,417,79162,microbio,239
+Belle Epoque Brut Champagne,417,79162,non_oak,239
+Pauillac (Grand Cru Classé),417,79262,microbio,43
+Pauillac (Grand Cru Classé),417,79262,non_oak,43
+Saint-Julien (Grand Cru Classé),417,79265,microbio,30
+Saint-Julien (Grand Cru Classé),417,79265,non_oak,30
+Vintage,417,79631,microbio,356
+Vintage,417,79631,non_oak,356
+Rosé,417,79632,microbio,65
+Rosé,417,79632,non_oak,65
+Collection,417,79633,microbio,28
+Collection,417,79633,non_oak,28
+Clos du Mesnil,417,79635,microbio,33
+Clos du Mesnil,417,79635,non_oak,33
+Pauillac (Grand Cru Classé),417,79762,microbio,42
+Pauillac (Grand Cru Classé),417,79762,non_oak,42
+Flor de Pingus,417,79814,microbio,26
+Flor de Pingus,417,79814,non_oak,26
+Cuvée Nicolas François Billecart Brut Champagne,417,79835,microbio,159
+Cuvée Nicolas François Billecart Brut Champagne,417,79835,non_oak,159
+La Grande Dame Brut Champagne,417,79836,microbio,244
+La Grande Dame Brut Champagne,417,79836,non_oak,244
+Saint-Estèphe (Grand Cru Classé),417,80472,microbio,35
+Saint-Estèphe (Grand Cru Classé),417,80472,non_oak,35
+Saint-Julien (Grand Cru Classé),417,81848,microbio,29
+Saint-Julien (Grand Cru Classé),417,81848,non_oak,29
+Pomerol,417,81849,microbio,14
+Pomerol,417,81849,non_oak,14
+Pessac-Léognan (Grand Cru Classé de Graves),417,82613,microbio,36
+Pessac-Léognan (Grand Cru Classé de Graves),417,82613,non_oak,36
+Corton-Charlemagne Grand Cru,417,82779,microbio,57
+Corton-Charlemagne Grand Cru,417,82779,non_oak,57
+Luce,417,83594,microbio,15
+Luce,417,83594,non_oak,15
+Clos des Goisses Champagne,417,83818,microbio,53
+Clos des Goisses Champagne,417,83818,non_oak,53
+Brut Champagne,417,86684,microbio,2165
+Brut Champagne,417,86684,non_oak,2165
+Pomerol,417,95444,microbio,23
+Pomerol,417,95444,non_oak,23
+Contador Rioja,417,98838,microbio,10
+Contador Rioja,417,98838,non_oak,10
+Clos de la Coulée de Serrant,417,100492,microbio,12
+Clos de la Coulée de Serrant,417,100492,non_oak,12
+Pomerol,417,768733,microbio,16
+Pomerol,417,768733,non_oak,16
+Pomerol,417,1098770,microbio,14
+Pomerol,417,1098770,non_oak,14
+Pomerol,417,1098981,microbio,10
+Pomerol,417,1098981,non_oak,10
+Pomerol,417,1099373,microbio,10
+Pomerol,417,1099373,non_oak,10
+Continuum Estate,417,1104820,microbio,11
+Continuum Estate,417,1104820,non_oak,11
+Trebbiano d'Abruzzo,417,1105696,microbio,11
+Trebbiano d'Abruzzo,417,1105696,non_oak,11
+ARTEMIS Cabernet Sauvignon,417,1107336,microbio,60
+ARTEMIS Cabernet Sauvignon,417,1107336,non_oak,60
+Pomerol,417,1108737,microbio,16
+Pomerol,417,1108737,non_oak,16
+Nuits-Saint-Georges 1er Cru Les Damodes,417,1109332,microbio,13
+Nuits-Saint-Georges 1er Cru Les Damodes,417,1109332,non_oak,13
+Serral del Vell Brut Nature,417,1109743,microbio,30
+Serral del Vell Brut Nature,417,1109743,non_oak,30
+Saint-Julien (Grand Cru Classé),417,1115658,microbio,54
+Saint-Julien (Grand Cru Classé),417,1115658,non_oak,54
+Pauillac (Grand Cru Classé),417,1125543,microbio,37
+Pauillac (Grand Cru Classé),417,1125543,non_oak,37
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,417,1127349,microbio,100
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,417,1127349,non_oak,100
+Château Margaux (Premier Grand Cru Classé),417,1127795,microbio,38
+Château Margaux (Premier Grand Cru Classé),417,1127795,non_oak,38
+Châteauneuf-du-Pape,417,1134803,microbio,41
+Châteauneuf-du-Pape,417,1134803,non_oak,41
+Sauternes (Premier Grand Cru Classé),417,1135215,microbio,44
+Sauternes (Premier Grand Cru Classé),417,1135215,non_oak,44
+Alexander Valley Cabernet Sauvignon,417,1135641,microbio,31
+Alexander Valley Cabernet Sauvignon,417,1135641,non_oak,31
+One Point Five Cabernet Sauvignon,417,1135642,microbio,10
+One Point Five Cabernet Sauvignon,417,1135642,non_oak,10
+Grange,417,1136930,microbio,33
+Grange,417,1136930,non_oak,33
+Comtes de Champagne Blanc de Blancs,417,1136950,microbio,587
+Comtes de Champagne Blanc de Blancs,417,1136950,non_oak,587
+Georges De Latour Private Reserve Cabernet Sauvignon,417,1138019,microbio,23
+Georges De Latour Private Reserve Cabernet Sauvignon,417,1138019,non_oak,23
+Tinto,417,1139434,microbio,21
+Tinto,417,1139434,non_oak,21
+Brut Rosé Champagne,417,1148298,microbio,158
+Brut Rosé Champagne,417,1148298,non_oak,158
+Pessac-Léognan (Premier Grand Cru Classé),417,1152755,microbio,38
+Pessac-Léognan (Premier Grand Cru Classé),417,1152755,non_oak,38
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1153702,microbio,15
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1153702,non_oak,15
+Sauternes,417,1153863,microbio,49
+Sauternes,417,1153863,non_oak,49
+Toscana,417,1155217,microbio,16
+Toscana,417,1155217,non_oak,16
+Corton-Charlemagne Grand Cru Blanc,417,1155694,microbio,20
+Corton-Charlemagne Grand Cru Blanc,417,1155694,non_oak,20
+Les Noisetiers,417,1155762,microbio,37
+Les Noisetiers,417,1155762,non_oak,37
+R.D Extra Brut Champagne (Récemment Dégorgé),417,1164702,microbio,163
+R.D Extra Brut Champagne (Récemment Dégorgé),417,1164702,non_oak,163
+Pieve Santa Restituta Brunello di Montalcino,417,1165708,microbio,15
+Pieve Santa Restituta Brunello di Montalcino,417,1165708,non_oak,15
+Oreno Toscana,417,1166231,microbio,18
+Oreno Toscana,417,1166231,non_oak,18
+MV,417,1167182,microbio,113
+MV,417,1167182,non_oak,113
+Margaux (Grand Cru Classé),417,1168278,microbio,26
+Margaux (Grand Cru Classé),417,1168278,non_oak,26
+Isosceles,417,1169307,microbio,20
+Isosceles,417,1169307,non_oak,20
+San Vicente Rioja,417,1173140,microbio,14
+San Vicente Rioja,417,1173140,non_oak,14
+Capellanía Reserva,417,1173806,microbio,57
+Capellanía Reserva,417,1173806,non_oak,57
+Sauternes (Premier Grand Cru Classé),417,1174845,microbio,37
+Sauternes (Premier Grand Cru Classé),417,1174845,non_oak,37
+Valbuena 5º,417,1175427,microbio,69
+Valbuena 5º,417,1175427,non_oak,69
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1179539,microbio,24
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1179539,non_oak,24
+Victorino,417,1182681,microbio,24
+Victorino,417,1182681,non_oak,24
+Bibbona,417,1186753,microbio,12
+Bibbona,417,1186753,non_oak,12
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1191335,microbio,12
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1191335,non_oak,12
+Dom Ruinart Blanc de Blancs Brut Champagne,417,1192720,microbio,226
+Dom Ruinart Blanc de Blancs Brut Champagne,417,1192720,non_oak,226
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',417,1203712,microbio,28
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',417,1203712,non_oak,28
+Brut Rosé Champagne,417,1211816,microbio,190
+Brut Rosé Champagne,417,1211816,non_oak,190
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),417,1218424,microbio,30
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),417,1218424,non_oak,30
+Clio,417,1219218,microbio,22
+Clio,417,1219218,non_oak,22
+Douro,417,1222575,microbio,10
+Douro,417,1222575,non_oak,10
+Gran Enemigo,417,1235058,microbio,10
+Gran Enemigo,417,1235058,non_oak,10
+Vieilles Vignes Châteauneuf-du-Pape Blanc,417,1235876,microbio,11
+Vieilles Vignes Châteauneuf-du-Pape Blanc,417,1235876,non_oak,11
+Grand Siècle Champagne (Grande Cuvée),417,1238419,microbio,212
+Grand Siècle Champagne (Grande Cuvée),417,1238419,non_oak,212
+Reserva Ribera del Duero,417,1251730,microbio,12
+Reserva Ribera del Duero,417,1251730,non_oak,12
+'Giulio Ferrari' Riserva del Fondatore,417,1256452,microbio,48
+'Giulio Ferrari' Riserva del Fondatore,417,1256452,non_oak,48
+Silex,417,1257923,microbio,13
+Silex,417,1257923,non_oak,13
+Corton-Charlemagne Grand Cru,417,1290765,microbio,12
+Corton-Charlemagne Grand Cru,417,1290765,non_oak,12
+Amour de Deutz Millésimé Brut Champagne,417,1301256,microbio,95
+Amour de Deutz Millésimé Brut Champagne,417,1301256,non_oak,95
+Dalmau Rioja,417,1324170,microbio,15
+Dalmau Rioja,417,1324170,non_oak,15
+Rosé Brut Champagne Grand Cru 'Ambonnay',417,1370760,microbio,26
+Rosé Brut Champagne Grand Cru 'Ambonnay',417,1370760,non_oak,26
+Roda I Reserva Rioja,417,1383553,microbio,20
+Roda I Reserva Rioja,417,1383553,non_oak,20
+La Grande Dame Brut Rosé Champagne,417,1384933,microbio,15
+La Grande Dame Brut Rosé Champagne,417,1384933,non_oak,15
+Red,417,1386095,microbio,12
+Red,417,1386095,non_oak,12
+Vittorio Moretti,417,1415420,microbio,22
+Vittorio Moretti,417,1415420,non_oak,22
+Blanc des Millénaires,417,1441099,microbio,160
+Blanc des Millénaires,417,1441099,non_oak,160
+Côte-Rôtie La Turque,417,1473611,microbio,13
+Côte-Rôtie La Turque,417,1473611,non_oak,13
+Cava Celler Batlle,417,1476982,microbio,30
+Cava Celler Batlle,417,1476982,non_oak,30
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1604635,microbio,14
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),417,1604635,non_oak,14
+Pessac-Léognan (Grand Cru Classé de Graves),417,1605285,microbio,14
+Pessac-Léognan (Grand Cru Classé de Graves),417,1605285,non_oak,14
+Chevalier-Montrachet Grand Cru Blanc,417,1607729,microbio,13
+Chevalier-Montrachet Grand Cru Blanc,417,1607729,non_oak,13
+Grand Vin Pauillac (Premier Grand Cru Classé),417,1655970,microbio,23
+Grand Vin Pauillac (Premier Grand Cru Classé),417,1655970,non_oak,23
+Pauillac (Premier Grand Cru Classé),417,1684223,microbio,73
+Pauillac (Premier Grand Cru Classé),417,1684223,non_oak,73
+Chassagne-Montrachet,417,1684635,microbio,14
+Chassagne-Montrachet,417,1684635,non_oak,14
+Sir Winston Churchill Brut Champagne,417,1692390,microbio,282
+Sir Winston Churchill Brut Champagne,417,1692390,non_oak,282
+Cuvée Risleus Brut Champagne Premier Cru,417,1716277,microbio,18
+Cuvée Risleus Brut Champagne Premier Cru,417,1716277,non_oak,18
+Nosotros Single Vineyard Nómade,417,1724358,microbio,14
+Nosotros Single Vineyard Nómade,417,1724358,non_oak,14
+5 Puttonyos Aszú (Blue Label),417,1789271,microbio,30
+5 Puttonyos Aszú (Blue Label),417,1789271,non_oak,30
+Evenstad Reserve Pinot Noir,417,1882725,microbio,12
+Evenstad Reserve Pinot Noir,417,1882725,non_oak,12
+Opus One,417,1911534,microbio,55
+Opus One,417,1911534,non_oak,55
+Tokaji Aszú 5 Puttonyos,417,1913596,microbio,30
+Tokaji Aszú 5 Puttonyos,417,1913596,non_oak,30
+Macán Clásico,417,1921801,microbio,15
+Macán Clásico,417,1921801,non_oak,15
+Vin de Constance (Natural Sweet),417,1958101,microbio,18
+Vin de Constance (Natural Sweet),417,1958101,non_oak,18
+Pinotage,417,1974082,microbio,17
+Pinotage,417,1974082,non_oak,17
+Champagne,417,2025939,microbio,10
+Champagne,417,2025939,non_oak,10
+Barón de Chirel Rioja Reserva,417,2026372,microbio,16
+Barón de Chirel Rioja Reserva,417,2026372,non_oak,16
+One Sixteen Chardonnay,417,2052637,microbio,16
+One Sixteen Chardonnay,417,2052637,non_oak,16
+Gaudium,417,2076733,microbio,11
+Gaudium,417,2076733,non_oak,11
+Brut Rosé Champagne,417,2114480,microbio,107
+Brut Rosé Champagne,417,2114480,non_oak,107
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',417,2148396,microbio,52
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',417,2148396,non_oak,52
+Brut Champagne (Gold),417,2240674,microbio,20
+Brut Champagne (Gold),417,2240674,non_oak,20
+Aile d'Argent Blanc Bordeaux,417,2284844,microbio,10
+Aile d'Argent Blanc Bordeaux,417,2284844,non_oak,10
+Gaia & Rey Langhe,417,2410111,microbio,17
+Gaia & Rey Langhe,417,2410111,non_oak,17
+CASK 23 Cabernet Sauvignon,417,2653222,microbio,10
+CASK 23 Cabernet Sauvignon,417,2653222,non_oak,10
+Red,417,2774263,microbio,10
+Red,417,2774263,non_oak,10
+P2 Plénitude Brut Champagne,417,3102815,microbio,161
+P2 Plénitude Brut Champagne,417,3102815,non_oak,161
+Cuvée des Enchanteleurs Brut Champagne,417,3630450,microbio,31
+Cuvée des Enchanteleurs Brut Champagne,417,3630450,non_oak,31
+Les Blanchiens Brut Nature Champagne Premier Cru,417,4000447,microbio,12
+Les Blanchiens Brut Nature Champagne Premier Cru,417,4000447,non_oak,12
+Reserve Chardonnay,417,5859611,microbio,10
+Reserve Chardonnay,417,5859611,non_oak,10
+Eight Years In The Desert,417,6044826,microbio,22
+Eight Years In The Desert,417,6044826,non_oak,22
+VV 26 Blanc de Blancs Vieilles Vignes Grand Cru Brut,417,6255066,microbio,11
+VV 26 Blanc de Blancs Vieilles Vignes Grand Cru Brut,417,6255066,non_oak,11
+Grande Cuvée,417,7122486,microbio,713
+Grande Cuvée,417,7122486,non_oak,713
+Single Barrel Champagne Grand Cru 'Le Mesnil-sur-Oger',417,9577421,microbio,10
+Single Barrel Champagne Grand Cru 'Le Mesnil-sur-Oger',417,9577421,non_oak,10
