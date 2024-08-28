@@ -7,6 +7,7 @@ Table of content
 3. Choosing your wine
 4. Contributors
    
+Wiwimo
 1. This project analyzes the wine market based on data gathered by Wiwimo Wine Company.
 2. This analysis is useful for understanding the global wine market and making commercial decisions.
 3. Users can take a more informed decision of which wine to buy according to the type of grape, rating, and price
