@@ -67,43 +67,27 @@ WHERE wine_id AND keyword_id IN (9, 106,117,123,195,417) AND count >= 10;"""
 
 
 # Query for 5.
-query5 = """WITH top_grapes AS (
-    SELECT
-        grape_id,
-        COUNT(DISTINCT country_code) AS country_count
-    FROM most_used_grapes_per_country
-    GROUP BY grape_id
-    ORDER BY country_count DESC
+query5 = """WITH Top3Grapes AS (
+    SELECT g.id AS grape_id, g.name AS grape_name
+    FROM most_used_grapes_per_country mg
+    JOIN grapes g ON mg.grape_id = g.id
+    GROUP BY g.id, g.name
+    ORDER BY SUM(mg.wines_count) DESC
     LIMIT 3
 ),
-ranked_wines AS (
-    SELECT
-        wines.id AS wine_id,
-        wines.name AS wine_name,
-        v.name AS vintage_name,
-        v.ratings_average,
-        regions.name AS region_name,
-        countries.name AS country_name,
-        grapes.name AS grape_name,
-        ROW_NUMBER() OVER (PARTITION BY grapes.id ORDER BY v.ratings_average DESC) AS wine_rank
-    FROM wines
-    JOIN vintages v ON wines.id = v.wine_id
-    JOIN regions ON wines.region_id = regions.id
-    JOIN countries ON regions.country_code = countries.code
-    JOIN most_used_grapes_per_country top ON countries.code = top.country_code
-    JOIN grapes ON top.grape_id = grapes.id
-    WHERE grapes.id IN (SELECT grape_id FROM top_grapes)
+TopWines AS (
+    SELECT w.name AS wine_name, v.name AS vintage_name, tg.grape_name, v.ratings_average, v.price_euros AS price,
+           ROW_NUMBER() OVER (PARTITION BY tg.grape_name ORDER BY v.ratings_average DESC) AS rank
+    FROM Top3Grapes tg
+    JOIN wines_grape wg ON tg.grape_id = wg.grape_id
+    JOIN wines w ON w.id = wg.wine_id
+    JOIN vintages v ON v.wine_id = w.id
+    WHERE v.ratings_count > 0
 )
-SELECT
-    wine_name,
-    vintage_name,
-    ratings_average,
-    region_name,
-    country_name,
-    grape_name
-FROM ranked_wines
-WHERE wine_rank <= 5
-ORDER BY grape_name, ratings_average DESC; 
+SELECT wine_name, vintage_name, price, grape_name, ratings_average
+FROM TopWines
+WHERE rank <= 5
+ORDER BY grape_name, ratings_average DESC;
 """
 
 # Query for 6-1.
