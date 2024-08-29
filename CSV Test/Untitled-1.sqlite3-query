@@ -1,0 +1,13 @@
+-- database: ../DB/vivino.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM countries;
+
+
+
+
+SELECT countries.name,countries.users_count, countries.wines_count, countries.wineries_count, countries.regions_count
+FROM countries
+ORDER BY countries.users_count DESC
+LIMIT 10;

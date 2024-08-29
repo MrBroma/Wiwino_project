@@ -21,16 +21,3 @@ plt.show()
 
 df = pd.read_csv(r"/workspaces/Wiwino_project/CSV/Wines recommended.csv")
 
-# Crear el gráfico de dispersión y capturar el objeto de los ejes
-ax = sns.scatterplot(x="ratings_average", y="price_euros", data=df, color='purple', s=50, hue = 'name.1')  # Cambia 'purple' por cualquier color o paleta que desees
-
-# Configurar el título y las etiquetas de los ejes
-
-ax.set_title("Wine Recommendations")  # Cambiado de "Recommended Wines"
-ax.set_xlabel("Average Rating")  # Cambiado de "Rating Average"
-ax.set_ylabel("Price (Euros)")  # Etiqueta del eje y
-ax.set_xticks([4.2, 4.4, 4.6, 4.8, 5])
-# Mostrar la gráfica
-ax.legend(loc='center left', bbox_to_anchor=(1, 0.5), fontsize=8) 
-plt.tight_layout()
-plt.show()
