@@ -21,20 +21,3 @@ plt.show()
 
 df = pd.read_csv(r"/workspaces/Wiwino_project/CSV/Wines recommended.csv")
 
-
-ax = sns.scatterplot(x="ratings_average", y="price_euros", data=df, color='purple', s=50, hue = 'name.1')  # Cambia 'purple' por cualquier color o paleta que desees
-
-
-
-ax.set_title("Wine Recommendations")  
-ax.set_xlabel("Average Rating")  
-ax.set_ylabel("Price (Euros)")  
-ax.set_xticks([4.2, 4.4, 4.6, 4.8, 5])
-
-ax.legend(loc='center left', bbox_to_anchor=(1, 0.5), fontsize=8) 
-plt.tight_layout()
-plt.show()
-
-
-
-

@@ -1,7 +1,7 @@
 # Wiwino project :wine_glass:
 Wiwino company has been gathering data about wines from its users for years. The CEO wants to have a better understanding of the wine market by analyzing Wiwimo's data. 
 
-Table of content
+**Table of content**.
 1. Analysis of the wine market :computer:
 2. Visualization of the wine market characteristics :bar_chart:
 3. Improving wine sales :euro: and choosing your wine :champagne:
